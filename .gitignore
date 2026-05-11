@@ -1,38 +1,27 @@
-# 系统自动生成的文件
-.DS_Store          # Mac系统文件
-Thumbs.db          # Windows缩略图缓存
-*.lnk              # Windows快捷方式
+# 系统文件
+.DS_Store
+Thumbs.db
+*.lnk
 
-# 编辑器/工具临时文件
-*~                 # 各种编辑器的备份文件（如Vim、VS Code）
-.*.swp             # Vim交换文件
-.*.swo             # Vim交换文件（二次保存）
-*.tmp              # 临时文件
-*.bak              # 备份文件
-*.cache            # 缓存文件
+# 编辑器临时文件
+*~
+.*.swp
+.*.swo
+*.tmp
+*.bak
+*.cache
 
-# Obsidian自身生成的非必要文件
-.obsidian/workspace          # 工作区配置（包含本地窗口布局等）
-.obsidian/workspace.json     # 工作区JSON配置
-.obsidian/cache/             #  Obsidian缓存目录
-.obsidian/themes/            # 主题文件（如需同步主题可删除此行）
-.obsidian/snippets/          # CSS代码片段（如需同步可删除此行）
-.obsidian/app.json           # 应用配置（包含本地路径等）
-.obsidian/community-plugins.json  # 插件列表（插件文件已在plugins目录保留）
+# Obsidian 缓存
+.obsidian/cache/
+.obsidian/workspace
+.obsidian/workspace.json
 
-# 只保留插件目录（忽略.obsidian下其他文件，但保留plugins）
-.obsidian/*                  # 先忽略.obsidian下所有内容
-!.obsidian/plugins/          # 但不忽略plugins目录
-!.obsidian/plugins/**/*      # 不忽略plugins目录下的所有文件和子目录
-
-# 其他可能的非笔记文件（根据需要调整）
+# 编译产物
 *.exe
 *.dll
 *.zip
 *.rar
 *.7z
 
-
-
-# Ignore Smart Environment folder
+# 其他
 .smart-env
