@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "08eb821bbce5ef96",
+        "id": "3df146f47acaea25",
         "type": "tabs",
         "children": [
           {
-            "id": "2819d6964682b1d1",
+            "id": "d0c711d5dd668fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/python/生成元.md",
+                "file": "Notes/编程/C++/STL/Container/Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生成元"
+              "title": "Map"
+            }
+          },
+          {
+            "id": "ab14b01a5f173938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/编程/python/环境管理/conda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conda"
+            }
+          },
+          {
+            "id": "981e1909723902ef",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +69,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -78,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.5
   },
   "right": {
     "id": "03041123a7700636",
@@ -142,17 +167,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/python/python自定义函数初步.md",
+                "file": "Notes/编程/python/python协议（protocol）/生命周期协议.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of python自定义函数初步"
+              "title": "Outline of 生命周期协议"
             }
           },
           {
-            "id": "d8b8b0d7be9a0cf4",
+            "id": "0062df955b0c2b6d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -160,77 +185,112 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "d83168d031a7b59a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "4000269769031af4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-env-status-view",
+              "state": {},
+              "icon": "gauge",
+              "title": "Smart Environment Status"
+            }
+          },
+          {
+            "id": "35fd5b37ba6b3d25",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "2819d6964682b1d1",
+  "active": "4000269769031af4",
   "lastOpenFiles": [
-    "Latex/图片.md",
-    "编程/python/生成元.md",
-    "inbox/论文.md",
-    "编程/python/List 列表进阶.md",
-    "编程/python/迭代器.md",
-    "编程/python/Lambda.md",
-    "编程/python/错误处理.md",
-    "编程/python/python自定义函数初步.md",
-    "编程/python/导言.md",
-    "编程/python/（隐性）复杂数据类型.md",
-    "编程/C/C语言中的面向对象编程.md",
-    "编程/C/header/stdarg.h.md",
-    "脚本/Makefile/Makefile.md",
-    "编程/python",
-    "脚本/Makefile/A Makefile.md",
-    "脚本/Makefile/一个示例.md",
-    "脚本/Makefile/Linux中静态库、动态库的命令行链接.md",
-    "零碎/py dsaa plan.md",
-    "编程/C++/编译/静态与动态链接.md",
-    "脚本/Makefile",
-    "脚本",
-    "编程/C++/类型转换.md",
-    "编程/C++/STL/Iterator/迭代器统一接口函数.md",
-    "编程/C++/STL/Iterator/统一接口原理总结.md",
-    "编程/C++/STL/Iterator/Iterator是什么.md",
-    "编程/C++/STL/Iterator/Iterator分类.md",
-    "编程/C++/STL/Iterator/Iterator Operations.md",
-    "编程/C++/STL/Container/Vector.md",
-    "编程/C++/STL/Container/String.md",
-    "编程/C++/STL/Iterator",
-    "编程/C++/STL/Container",
-    "编程/C++/编译",
-    "编程/C++/单变量存储多类型数据",
-    "编程/C++/STL",
-    "编程/C++/class",
-    "编程/C/header",
+    "Notes/编程/python/环境管理/conda.md",
+    "Notes/编程/python/环境管理/虚拟环境enve.md",
+    "Notes/编程/python/环境管理/未命名",
+    "Notes/编程/python/python协议（protocol）/什么是python的协议.md",
+    "Notes/编程/python/环境管理",
+    "Notes/编程/python/错误处理.md",
+    "Notes/编程/python/导言.md",
+    "Notes/编程/python/模块与封装.md",
+    "Notes/编程/python/文件管理/文件指针.md",
+    "Notes/编程/python/文件管理/三、将文件当作可迭代对象.md",
+    "Notes/编程/python/文件管理/二、上下文管理器.md",
+    "Notes/编程/python/文件管理/一、基础方法.md",
+    "Notes/编程/python/文件管理/编码.md",
+    "Notes/编程/python/自定义函数/Lambda.md",
+    "Notes/编程/python/自定义函数/python自定义函数初步.md",
+    "Notes/编程/python/文件管理/用python实现类C预压的文件对象.md",
+    "Notes/编程/python/数据结构/List 列表进阶.md",
+    "Notes/编程/python/数据结构/Generator Expressions.md",
+    "Notes/编程/python/数据结构/字典删去对应值.md",
+    "Notes/编程/python/数据结构/基础数据结构.md",
+    "Notes/git/git常用命令.md",
+    "Notes/脚本/CMake/CMake命令.md",
+    "Notes/脚本/Makefile/Makefile.md",
+    "Notes/脚本/Makefile/Linux中静态库、动态库的命令行链接.md",
+    "inbox/阿对怼队的项目设计文档.md",
+    "Notes/编程/C++/STL/Container/Map.md",
+    "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260412_202115.md",
+    "Notes/编程/C++/STL/Container/Set.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "AI agent skills开发日记",
+    "Excalidraw",
+    "attachment/Pasted image 20260206110957.png",
+    "attachment/Pasted image 20260206110837.png",
+    "对象创建",
+    "Notes/编程/python/python协议（protocol）/Untitled",
+    "Notes/编程/python/python协议（protocol）",
+    "海月.png",
+    "attachment/海月.png",
     "attachment/Pasted image 20251219235510.png",
     "attachment/Pasted image 20251219235453.png",
     "attachment/Pasted image 20251219235433.png",
     "attachment/Pasted image 20251219235406.png",
     "attachment/Pasted image 20251215234512.png",
     "attachment/Pasted image 20251215233557.png",
-    "attachment/Pasted image 20251215233539.png",
-    "attachment/Pasted image 20251215233519.png",
-    "attachment/Pasted image 20251215233453.png",
-    "attachment/Pasted image 20251215233428.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "未命名.canvas",

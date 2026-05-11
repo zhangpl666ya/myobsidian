@@ -9,9 +9,7 @@
     - 功能：在堆区分配一块大小为`size`字节的连续内存，未初始化（内容随机）。
     - 返回值：成功返回指向内存块的指针；失败返回`NULL`（需检查返回值）。
     - 示例：
-        
-        c
-        
+
         ```c
         int *arr = (int*)malloc(5 * sizeof(int));  // 分配5个int的内存
         if (arr == NULL) { /* 内存分配失败处理 */ }
@@ -84,15 +82,13 @@
     
     - 功能：将字符串转换为`double`类型，`endptr`指向转换终止的位置（可用于检测无效字符）。
     - 示例：
-        
-        c
-        
-        ```c
+
+```c
         char *str = "3.14abc";
         char *end;
         double val = strtod(str, &end);  // val = 3.14，end指向"abc"
-        ```
-        
+```
+
 
 4.**`strtol(const char *str, char **endptr, int base)`**- 功能：按`base`进制（2-36）将字符串转换为`long`类型。
 
@@ -145,9 +141,7 @@
 
 - 返回值：命令的退出状态（不同系统实现可能不同）。
 - 示例：
-    
-    c
-    
+
     ```c
     system("ls");  // Linux：列出目录内容
     system("dir"); // Windows：列出目录内容

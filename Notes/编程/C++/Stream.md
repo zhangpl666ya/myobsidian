@@ -178,7 +178,7 @@ cin/cout 等流对象内部维护「状态标志」，用于标识 I/O 操作是
 
 - **打开方式**：
     - 构造函数打开：`ofstream fout("data.txt");`
-    - `open()` 成员函数：`fout.open("data.txt"  ,  ios::app)`
+    - `open()` 成员函数：`fout.open("data.txt" , ios::app)`
 - **打开模式（可选，组合用 `|`）**：
 
 
@@ -248,8 +248,6 @@ int main() {
 
 二进制模式不转换换行符（`\n` 与 `\r\n`），适合存储结构体、二进制数据：
 
-
-
 ```cpp
 #include <iostream>
 #include <fstream>
@@ -316,9 +314,6 @@ int main() {
 
 **示例：高效拼接字符串（避免 `+` 频繁拷贝）**
 
-cpp
-
-运行
 
 ```cpp
 #include <iostream>

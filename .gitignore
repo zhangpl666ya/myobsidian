@@ -31,3 +31,8 @@ Thumbs.db          # Windows缩略图缓存
 *.zip
 *.rar
 *.7z
+
+
+
+# Ignore Smart Environment folder
+.smart-env

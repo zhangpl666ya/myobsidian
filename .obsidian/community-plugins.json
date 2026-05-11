@@ -1,11 +1,14 @@
 [
+  "obsidian-latex-suite",
+  "quick-explorer",
+  "shiki-highlighter",
+  "obsidian-tasks-plugin",
   "obsidian-pandoc",
   "file-explorer-note-count",
-  "calendar",
-  "obsidian-tasks-plugin",
+  "execute-code",
   "obsidian-excalidraw-plugin",
-  "quick-explorer",
+  "obsidian-emoji-toolbar",
   "dataview",
-  "obsidian-latex-suite",
-  "obsidian-emoji-toolbar"
+  "obsidian-git",
+  "smart-connections"
 ]

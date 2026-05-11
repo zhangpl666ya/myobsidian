@@ -1,0 +1,2 @@
+deepseek:
+sk-d865c73353fa45eb807bfd69564d898d

@@ -231,15 +231,15 @@ int main() {
 
 ### 总结
 
-|**容器分类**|**容器名称**|**迭代器类型**|**关键特性**|
-|---|---|---|---|
-|**序列式容器**|`std::vector`|**随机访问 (Random Access)**|支持 `it + 5` 或 `it[3]`，效率最高|
-||`std::deque`|**随机访问 (Random Access)**|虽然内存不连续，但模拟了随机访问|
-||`std::array`|**随机访问 (Random Access)**|固定大小的数组|
-||`std::list`|**双向 (Bidirectional)**|只能 `++it` 或 `--it`，不能 `it + 2`|
-||`std::forward_list`|**前向 (Forward)**|只能 `++it`，没有 `--it`|
-|**关联式容器**|`std::set / multiset`|**双向 (Bidirectional)**|元素有序，支持双向遍历|
-||`std::map / multimap`|**双向 (Bidirectional)**|元素有序，支持双向遍历|
-|**无序关联容器**|`unordered_set / map`|**前向 (Forward)**|哈希表实现，通常只支持单向向前|
-|**容器适配器**|`stack / queue`|**无迭代器**|封闭式结构，不支持迭代器访问|
+| **容器分类**   | **容器名称**              | **迭代器类型**                | **关键特性**                       |
+| ---------- | --------------------- | ------------------------ | ------------------------------ |
+| **序列式容器**  | `std::vector`         | **随机访问 (Random Access)** | 支持 `it + 5` 或 `it[3]`，效率最高     |
+|            | `std::deque`          | **随机访问 (Random Access)** | 虽然内存不连续，但模拟了随机访问               |
+|            | `std::array`          | **随机访问 (Random Access)** | 固定大小的数组                        |
+|            | `std::list`           | **双向 (Bidirectional)**   | 只能 `++it` 或 `--it`，不能 `it + 2` |
+|            | `std::forward_list`   | **前向 (Forward)**         | 只能 `++it`，没有 `--it`            |
+| **关联式容器**  | `std::set / multiset` | **双向 (Bidirectional)**   | 元素有序，支持双向遍历                    |
+|            | `std::map / multimap` | **双向 (Bidirectional)**   | 元素有序，支持双向遍历                    |
+| **无序关联容器** | `unordered_set / map` | **前向 (Forward)**         | 哈希表实现，通常只支持单向向前                |
+| **容器适配器**  | `stack / queue`       | **无迭代器**                 | 封闭式结构，不支持迭代器访问                 |
 [[Iterator Operations]]

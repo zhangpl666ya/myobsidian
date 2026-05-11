@@ -78,7 +78,7 @@ int fscanf(FILE *stream, const char *format, ...);   // 读文件
 
 - **功能**：与控制台 `fgets`/`fputs` 用法一致，仅需将 `stdin`/`stdout` 替换为文件指针。
 - **示例**：读取文件的每一行并打印：
-- ```c
+```c
 FILE *fp = fopen("test.txt", "r");
 if (fp == NULL) { /* 错误处理 */ }
 
@@ -146,7 +146,7 @@ printf("姓名：%s，年龄：%d，成绩：%.1f\n", name, age, score);
 1. `fseek`：跳转位置
 	* 功能：告诉电脑“接下来从文件的XX位置开始读写”（将文件流stream的文件位置指示器设置为offset所指向的值）
 	* `int fseek(FILE* stream,long offset,int origin)`
-		* offset：偏移量，相对于远点偏移的数量
+		* offset：偏移量，相对于起点偏移的数量
 		* stream：流，要修改的文件流
 		* origin：起点，添加偏移量的位置，有以下值：SEEK_SET、SEEK_CUR、DEEK_END
 	* 成功时返回0，否则返回非零值

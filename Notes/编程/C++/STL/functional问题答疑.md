@@ -103,7 +103,7 @@ lambda 不需要 “强制类型转换”，除非你要把它转换成 **非 
 
 
 ### 常见场景：`std::map` 用 lambda 当比较器（需要显式类型声明）
-4. ```cpp
+```cpp
 #include <map>
 #include <functional>
 
