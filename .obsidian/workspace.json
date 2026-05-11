@@ -177,16 +177,6 @@
             }
           },
           {
-            "id": "0062df955b0c2b6d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
             "id": "d83168d031a7b59a",
             "type": "leaf",
             "state": {
@@ -217,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
