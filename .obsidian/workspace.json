@@ -34,19 +34,9 @@
               "icon": "lucide-file",
               "title": "conda"
             }
-          },
-          {
-            "id": "981e1909723902ef",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,47 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/编程/python/python协议（protocol）/生命周期协议.md",
+                "file": "Notes/编程/python/环境管理/conda.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 生命周期协议"
-            }
-          },
-          {
-            "id": "d83168d031a7b59a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
-            }
-          },
-          {
-            "id": "4000269769031af4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-env-status-view",
-              "state": {},
-              "icon": "gauge",
-              "title": "Smart Environment Status"
-            }
-          },
-          {
-            "id": "35fd5b37ba6b3d25",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "title": "conda 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,14 +186,10 @@
       "bases:新建数据库": false,
       "random-note:开始漫游笔记": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4000269769031af4",
+  "active": "122a2a6244b9421d",
   "lastOpenFiles": [
     "Notes/编程/python/环境管理/conda.md",
     "Notes/编程/python/环境管理/虚拟环境enve.md",

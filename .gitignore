@@ -25,3 +25,8 @@ Thumbs.db
 
 # 其他
 .smart-env
+
+
+
+# Ignore Smart Environment folder
+.smart-env
