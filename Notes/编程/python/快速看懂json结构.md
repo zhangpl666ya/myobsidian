@@ -1,3 +1,4 @@
+python中的json解析后是dict跟list层层套出来的。
 用逐步探查法——像剥洋葱一样一层层看：
 ```python
 
