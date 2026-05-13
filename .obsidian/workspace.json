@@ -176,6 +176,7 @@
   },
   "active": "d0c711d5dd668fa4",
   "lastOpenFiles": [
+    "Notes/编程/python/PySide6/信号槽机制_写.py",
     "Notes/编程/python/python协议（protocol）/描述符协议.md",
     "Notes/编程/python/PySide6/信号槽机制.md",
     "Notes/编程/python/PySide6",
@@ -204,7 +205,6 @@
     "Notes/编程/python/文件管理/一、基础方法.md",
     "Notes/编程/python/文件管理/编码.md",
     "Notes/编程/python/自定义函数/Lambda.md",
-    "Notes/编程/python/自定义函数/python自定义函数初步.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
