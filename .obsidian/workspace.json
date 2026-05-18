@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/编程/python/PySide6/信号槽机制.md",
+                "file": "Notes/编程/python/数据结构/List 列表进阶.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信号槽机制"
+              "title": "List 列表进阶"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/编程/python/PySide6/信号槽机制.md",
+                "file": "Notes/编程/python/数据结构/List 列表进阶.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "信号槽机制 的大纲"
+              "title": "List 列表进阶 的大纲"
             }
           }
         ],
@@ -176,9 +176,12 @@
   },
   "active": "d0c711d5dd668fa4",
   "lastOpenFiles": [
+    "Notes/编程/python/数据结构/Generator Expressions.md",
+    "Notes/编程/python/数据结构/字典删去对应值.md",
+    "Notes/编程/python/数据结构/基础数据结构.md",
+    "Notes/编程/python/PySide6/信号槽机制.md",
     "Notes/编程/python/PySide6/信号槽机制_写.py",
     "Notes/编程/python/python协议（protocol）/描述符协议.md",
-    "Notes/编程/python/PySide6/信号槽机制.md",
     "Notes/编程/python/PySide6",
     "Notes/编程/python/python协议（protocol）/什么是python的协议.md",
     "Notes/编程/python/python协议（protocol）/属性访问协议.md",
@@ -190,8 +193,6 @@
     "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260412_202115.md",
     "copilot/copilot-conversations/你觉得这篇笔记有没有记错的地方@20260411_200649.md",
     "Notes/编程/python/快速看懂json结构.md",
-    "Notes/编程/python/数据结构/基础数据结构.md",
-    "Notes/编程/python/数据结构/字典删去对应值.md",
     "Notes/编程/python/环境管理/conda.md",
     "Notes/编程/python/环境管理/虚拟环境enve.md",
     "Notes/编程/python/环境管理/未命名",
@@ -213,7 +214,6 @@
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "对象创建",
-    "Notes/编程/python/python协议（protocol）/Untitled",
     "海月.png",
     "attachment/海月.png",
     "attachment/Pasted image 20251219235510.png",
