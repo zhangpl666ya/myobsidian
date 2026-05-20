@@ -45,7 +45,7 @@ mo4 = Myfriend.search('Carol loves math')                 # None
 - 查找出现Alice或Bob都会产生结果
 - 只会匹配最先出现的一个
 ## 问号
-在分组后面添加问好实现可选匹配
+在分组后面添加问号实现可选匹配
 ```python
 import re
 Hero = re.compile(r'Super(wo)?man')
