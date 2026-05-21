@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MIT/MIT6.041/Lecture 07 - 多元随机变量与帽子问题.md",
+                "file": "inbox/讲义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 07 - 多元随机变量与帽子问题"
+              "title": "讲义"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MIT/MIT6.041/Lecture 07 - 多元随机变量与帽子问题.md",
+                "file": "inbox/讲义.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lecture 07 - 多元随机变量与帽子问题 的大纲"
+              "title": "讲义 的大纲"
             }
           }
         ],
@@ -205,8 +205,11 @@
   },
   "active": "a569a039f2b94b19",
   "lastOpenFiles": [
-    "Notes/MIT/MIT6.041/Lecture 05 - 随机变量.md",
+    "inbox/讲义_backup.md",
+    "inbox/wrap_math.py",
+    "inbox/未命名.md",
     "Notes/MIT/MIT6.041/Lecture 07 - 多元随机变量与帽子问题.md",
+    "Notes/MIT/MIT6.041/Lecture 05 - 随机变量.md",
     "Notes/MIT/MIT6.041/lecture07_raw.txt",
     "Notes/MIT/MIT6.041/extract07.py",
     "Notes/MIT/MIT6.041/Lecture 02 - 条件概率与贝叶斯准则.md",
@@ -221,7 +224,6 @@
     "Notes/MIT/MIT6.041/lecture22_raw.txt",
     "Notes/MIT/MIT6.041/lecture21_raw.txt",
     "Notes/MIT/MIT6.041/lecture20_raw.txt",
-    "Notes/MIT/MIT6.041/lecture19_raw.txt",
     "Notes/MIT/MIT6.041/Lecture 04 - 计数原理.md",
     "Notes/MIT/MIT6.041/Lecture 01 - Probability Models and Axioms.md",
     "Notes/MIT/MIT6.041/Lecture 02 - Conditioning and Bayes Rule.md",
@@ -231,16 +233,14 @@
     "Notes/编程/python/python协议（protocol）/可调用协议.md",
     "Notes/编程/python/python协议（protocol）/描述符协议.md",
     "Notes/编程/python/python协议（protocol）/容器、序列协议.md",
-    "inbox/未命名 1.md",
+    "inbox/讲义.md",
     "Notes/编程/python/Regex.md",
-    "inbox/未命名.md",
     "Notes/编程/python/数据结构/List 列表进阶.md",
     "Notes/编程/python/数据结构/Generator Expressions.md",
     "Notes/编程/python/数据结构/字典删去对应值.md",
     "Notes/编程/python/数据结构/基础数据结构.md",
     "Notes/编程/python/PySide6/信号槽机制.md",
     "Notes/编程/python/python协议（protocol）/什么是python的协议.md",
-    "Notes/编程/python/python协议（protocol）/属性访问协议.md",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
