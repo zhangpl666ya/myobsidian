@@ -1,0 +1,400 @@
+\documentclass[]{article}
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Serif SC}
+\usepackage{fontspec}
+\usepackage{amsmath}
+\usepackage{unicode-math}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{}
+\makeatletter
+\providecommand{\tightlist}{\itemsep0pt}
+\providecommand{\itemize}{\itemsep0pt}
+\makeatother
+\begin{document}
+\section{文件样式踩坑测试}\label{ux6587ux4ef6ux6837ux5f0fux8e29ux5751ux6d4bux8bd5}
+
+\begin{quote}
+这是用来测试各种文件编辑场景的测试文件，涵盖 Obsidian
+笔记中常见的所有元素。
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{1.
+普通文本与中文}\label{ux666eux901aux6587ux672cux4e0eux4e2dux6587}
+
+这是普通段落文字。中文段落测试：的概率与统计的交汇融合，构成了极具选拔功能的''28分高分值协同效应区''。
+
+\subsubsection{1.1 加粗与斜体}\label{ux52a0ux7c97ux4e0eux659cux4f53}
+
+\textbf{加粗文字}用于强调重点。\emph{斜体文字}用于次级强调。\textbf{\emph{加粗斜体}}组合使用。
+
+中文强调测试：\textbf{高可靠性的深层传输网络}，需要在设计时考虑多个因素。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{2. 标题层级}\label{ux6807ux9898ux5c42ux7ea7}
+
+\subsubsection{三级标题}\label{ux4e09ux7ea7ux6807ux9898}
+
+\paragraph{四级标题}\label{ux56dbux7ea7ux6807ux9898}
+
+\subparagraph{五级标题}\label{ux4e94ux7ea7ux6807ux9898}
+
+六级标题
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{3. 列表}\label{ux5217ux8868}
+
+\subsubsection{3.1 无序列表}\label{ux65e0ux5e8fux5217ux8868}
+
+\begin{itemize}
+\tightlist
+\item
+  第一条要点
+
+  \begin{itemize}
+  \tightlist
+  \item
+    子要点（缩进两个空格）
+
+    \begin{itemize}
+    \tightlist
+    \item
+      更深的子要点
+    \end{itemize}
+  \end{itemize}
+\item
+  第二条要点
+
+  \begin{itemize}
+  \tightlist
+  \item
+    嵌套内容
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{3.2 有序列表}\label{ux6709ux5e8fux5217ux8868}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  第一步操作
+\item
+  第二步操作
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    子步骤 A
+  \item
+    子步骤 B
+  \end{enumerate}
+\item
+  第三步操作
+\end{enumerate}
+
+\subsubsection{3.3 任务列表（Obsidian
+特性）}\label{ux4efbux52a1ux5217ux8868obsidian-ux7279ux6027}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  未完成的任务
+\item[$\boxtimes$]
+  已完成的任务（Obsidian 中显示为勾选框）
+\item[$\square$]
+  另一个待办
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{4. 代码}\label{ux4ee3ux7801}
+
+\subsubsection{4.1 行内代码}\label{ux884cux5185ux4ee3ux7801}
+
+Python 中定义变量 \texttt{x\ =\ 100}，JavaScript 中
+\texttt{let\ y\ =\ 200}。
+
+\subsubsection{4.2
+代码块（多语言）}\label{ux4ee3ux7801ux5757ux591aux8bedux8a00}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Python 代码块}
+\KeywordTok{def}\NormalTok{ fibonacci(n):}
+    \ControlFlowTok{if}\NormalTok{ n }\OperatorTok{\textless{}=} \DecValTok{1}\NormalTok{:}
+        \ControlFlowTok{return}\NormalTok{ n}
+    \ControlFlowTok{return}\NormalTok{ fibonacci(n}\OperatorTok{{-}}\DecValTok{1}\NormalTok{) }\OperatorTok{+}\NormalTok{ fibonacci(n}\OperatorTok{{-}}\DecValTok{2}\NormalTok{)}
+
+\NormalTok{result }\OperatorTok{=}\NormalTok{ [fibonacci(i) }\ControlFlowTok{for}\NormalTok{ i }\KeywordTok{in} \BuiltInTok{range}\NormalTok{(}\DecValTok{10}\NormalTok{)]}
+\BuiltInTok{print}\NormalTok{(result)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{// JavaScript 代码块}
+\KeywordTok{const}\NormalTok{ fibonacci }\OperatorTok{=}\NormalTok{ (n) }\KeywordTok{=\textgreater{}}\NormalTok{ \{}
+    \ControlFlowTok{if}\NormalTok{ (n }\OperatorTok{\textless{}=} \DecValTok{1}\NormalTok{) }\ControlFlowTok{return}\NormalTok{ n}\OperatorTok{;}
+    \ControlFlowTok{return} \FunctionTok{fibonacci}\NormalTok{(n}\OperatorTok{{-}}\DecValTok{1}\NormalTok{) }\OperatorTok{+} \FunctionTok{fibonacci}\NormalTok{(n}\OperatorTok{{-}}\DecValTok{2}\NormalTok{)}\OperatorTok{;}
+\NormalTok{\}}\OperatorTok{;}
+
+\BuiltInTok{console}\OperatorTok{.}\FunctionTok{log}\NormalTok{([}\OperatorTok{...}\BuiltInTok{Array}\NormalTok{(}\DecValTok{10}\NormalTok{)]}\OperatorTok{.}\FunctionTok{map}\NormalTok{((\_}\OperatorTok{,}\NormalTok{ i) }\KeywordTok{=\textgreater{}} \FunctionTok{fibonacci}\NormalTok{(i)))}\OperatorTok{;}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Shell/Bash 代码块}
+\BuiltInTok{cd} \StringTok{"C:\textbackslash{}Users\textbackslash{}39173\textbackslash{}Desktop\textbackslash{}笔记"}
+\FunctionTok{git}\NormalTok{ status}
+\FunctionTok{git}\NormalTok{ add .}
+\FunctionTok{git}\NormalTok{ commit }\AttributeTok{{-}m} \StringTok{"update notes"}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\% LaTeX 数学代码块}
+\SpecialStringTok{\textbackslash{}[}
+\SpecialCharTok{\textbackslash{}mathcal}\SpecialStringTok{\{L\} = }\SpecialCharTok{\textbackslash{}int}\SpecialStringTok{\_\{}\SpecialCharTok{\textbackslash{}Omega}\SpecialStringTok{\} |}\SpecialCharTok{\textbackslash{}nabla}\SpecialStringTok{ u|\^{}2 }\SpecialCharTok{\textbackslash{},}\SpecialStringTok{ dx}
+\SpecialStringTok{\textbackslash{}]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{5. 数学公式（LaTeX）}\label{ux6570ux5b66ux516cux5f0flatex}
+
+\subsubsection{5.1 行内公式}\label{ux884cux5185ux516cux5f0f}
+
+当 \(p_1 = \frac{1}{3}\) 时，对任意 \(n \ge 1\)，均有
+\(0 < p_n < \frac{1}{2}\)。
+
+随机变量序列 \(z^{(1)}, z^{(2)}, \dots, z^{(M)}\) 满足马尔可夫性质。
+
+\subsubsection{5.2 独立公式块}\label{ux72ecux7acbux516cux5f0fux5757}
+
+条件概率：
+
+\[P_n = \frac{2}{3} P_{n+1} + \frac{1}{3} P_{n-1} \quad (1 \le n \le 5)\]
+
+递推公式推导：
+
+\[E_n = \frac{2}{3} (E_{n+1} + 1) + \frac{1}{3} (E_{n-1} + 1) \quad (1 \le n \le 5)\]
+
+全概率展开：
+
+\[P(X = x) = \sum_{i=1}^{n} P(A_i) \cdot P(X = x \mid A_i)\]
+
+极限分布：
+
+\[\lim_{n \to \infty} p_n = \frac{1}{5}\]
+
+分段函数：
+
+\[
+f(x) = 
+\begin{cases}
+\frac{1}{5} + \frac{2}{5}\lambda_1^n + \frac{2}{5}\lambda_2^n & \text{if } n \ge 0 \\
+0 & \text{otherwise}
+\end{cases}
+\]
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{6. 表格}\label{ux8868ux683c}
+
+\subsubsection{6.1 普通表格}\label{ux666eux901aux8868ux683c}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+知识模块 & 分值（分） & 占总分比例（\%） & 考查形式与命题动向 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+函数与导数 & 38 & 25.33 & 压轴解答题，侧重非线性方程根的分布 \\
+解析几何 & 26 & 17.33 & 中高档解答题，计算负荷极高 \\
+数列 & 17 & 11.33 & 重点考查递推通项结构性质 \\
+概率与统计 & 11 & 7.33 & 侧重条件概率、全概率公式、期望 \\
+\end{longtable}
+
+\subsubsection{6.2 左对齐表格}\label{ux5de6ux5bf9ux9f50ux8868ux683c}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+命题范式 & 核心模型 & 典型工具 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+一维随机游走 & 二阶常系数线性递推 & 累加法、待定系数法 \\
+马尔可夫链 & 联立多元差分方程组 & 特征方程求特征根 \\
+非线性递推 & 一阶非线性三次多项式 & 数学归纳法 \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{7. 引用块}\label{ux5f15ux7528ux5757}
+
+\begin{quote}
+这是一段引用文字。
+
+第二行引用。引用块常用于标注重要概念或引用来源。
+\end{quote}
+
+多层嵌套引用：
+
+\begin{quote}
+外层引用 \textgreater{} 内层引用 \textgreater\textgreater{} 更深的嵌套
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{8. 分隔线}\label{ux5206ux9694ux7ebf}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+上面是分隔线，上面是分隔线。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{9. 链接}\label{ux94feux63a5}
+
+\subsubsection{9.1 普通链接}\label{ux666eux901aux94feux63a5}
+
+\href{https://portal.pku.edu.cn/portal2017/}{北京大学门户}
+
+\href{https://ocw.mit.edu/}{MIT OpenCourseWare}
+
+\subsubsection{9.2
+维基风格链接}\label{ux7ef4ux57faux98ceux683cux94feux63a5}
+
+{[}{[}常用网站{]}{]} --- 链接到同目录下的另一个笔记文件（Obsidian
+内部链接）
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{10. Obsidian 特有的 YAML
+属性}\label{obsidian-ux7279ux6709ux7684-yaml-ux5c5eux6027}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\PreprocessorTok{{-}{-}{-}}
+\FunctionTok{uid}\KeywordTok{:}\AttributeTok{ 2026{-}05{-}21{-}test}
+\FunctionTok{tags}\KeywordTok{:}
+\AttributeTok{  }\KeywordTok{{-}}\AttributeTok{ 测试}
+\AttributeTok{  }\KeywordTok{{-}}\AttributeTok{ 笔记}
+\FunctionTok{created}\KeywordTok{:}\AttributeTok{ 2026{-}05{-}21}
+\FunctionTok{modified}\KeywordTok{:}\AttributeTok{ 2026{-}05{-}21}
+\FunctionTok{aliases}\KeywordTok{:}
+\AttributeTok{  }\KeywordTok{{-}}\AttributeTok{ 文件样式测试}
+\PreprocessorTok{{-}{-}{-}}
+
+\AttributeTok{以上为 YAML frontmatter，Obsidian 会读取这些属性。}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{11.
+高亮与删除线}\label{ux9ad8ux4eaeux4e0eux5220ux9664ux7ebf}
+
+这是普通文字 ==高亮文字== 用于突出重点。
+
+这是普通文字 \st{删除线文字} 用于标记过时内容。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{12.
+水平分割符的特殊情况}\label{ux6c34ux5e73ux5206ux5272ux7b26ux7684ux7279ux6b8aux60c5ux51b5}
+
+单独一行 \texttt{-\/-\/-} 会渲染为分隔线。如果你想输出 \texttt{-\/-\/-}
+文字而不转为分隔线，需要使用转义或在其他元素中。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{13.
+转义字符测试}\label{ux8f6cux4e49ux5b57ux7b26ux6d4bux8bd5}
+
+以下字符在 Markdown 中需要转义：
+
+\begin{itemize}
+\tightlist
+\item
+  星号：* （避免变为斜体）
+\item
+  下划线：\_ （避免变为斜体）
+\item
+  井号：\# （避免变为标题）
+\item
+  反引号：` （避免变为行内代码）
+\end{itemize}
+
+在 Obsidian 中，普通段落内单独一个 \texttt{-}
+不会变列表，需要有空行或其他标记触发。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{14.
+常见踩坑点总结}\label{ux5e38ux89c1ux8e29ux5751ux70b9ux603bux7ed3}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+场景
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+坑
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+解决方式
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+中文文件名 & 部分工具对中文路径处理不一致 & 始终用引号包裹路径 \\
+表格内竖线 & \texttt{\textbar{}} 出现在表格内需要转义 &
+表格内尽量不用竖线 \\
+代码块中的 LaTeX & \texttt{\$\$} 可能与外层解析冲突 &
+代码块内无需转义，直接写 \texttt{\$\$} \\
+分隔线 \texttt{-\/-\/-} & 单独一行会变成横线 & 用其他方式表达，如
+\texttt{-\/-\/-\ 文字\ -\/-\/-} \\
+Obsidian 内部链接 & \texttt{{[}{[}笔记名{]}{]}} 在非 Obsidian 环境会失效
+& 区分使用场景 \\
+YAML frontmatter & 必须放在文件最开头，冒号后有空格 &
+\texttt{key:\ value} 格式 \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{15.
+空文件与特殊文件名}\label{ux7a7aux6587ux4ef6ux4e0eux7279ux6b8aux6587ux4ef6ux540d}
+
+测试一些特殊情况：
+
+\begin{itemize}
+\tightlist
+\item
+  文件名带空格：\texttt{未命名\ 1.md}
+\item
+  文件名带中文：\texttt{常用网站.md}
+\item
+  零字节文件：某些占位文件可能为空
+\item
+  Canvas 文件：\texttt{.canvas} 格式是 JSON 结构
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\emph{测试文件 Created: 2026-05-21}
+\emph{用于测试各种文件编辑场景与踩坑记录}
+\end{document}
