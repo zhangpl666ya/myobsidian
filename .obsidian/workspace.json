@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/编程/python/python协议（protocol）/上下文管理协议（with关键字.md",
+                "file": "Notes/MIT/MIT6.041/Lecture5：.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "上下文管理协议（with关键字"
+              "title": "Lecture5："
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/编程/python/python协议（protocol）/上下文管理协议（with关键字.md",
+                "file": "Notes/MIT/MIT6.041/Lecture5：.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "上下文管理协议（with关键字 的大纲"
+              "title": "Lecture5： 的大纲"
             }
           }
         ],
@@ -205,6 +205,9 @@
   },
   "active": "a569a039f2b94b19",
   "lastOpenFiles": [
+    "Notes/MIT/MIT6.006/Lecture7：Binary Tree 2 AVL.md",
+    "Notes/MIT/MIT6.041/Lecture5：.md",
+    "Notes/编程/python/python协议（protocol）/上下文管理协议（with关键字.md",
     "Notes/编程/python/python协议（protocol）/可调用协议.md",
     "Notes/编程/python/python协议（protocol）/描述符协议.md",
     "Notes/编程/python/python协议（protocol）/容器、序列协议.md",
@@ -232,9 +235,6 @@
     "Notes/编程/python/环境管理/虚拟环境enve.md",
     "Notes/编程/python/环境管理/未命名",
     "Notes/编程/python/环境管理",
-    "Notes/编程/python/错误处理.md",
-    "Notes/编程/python/导言.md",
-    "Notes/编程/python/模块与封装.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
