@@ -1,4 +1,6 @@
-﻿2026年中国高考数学"数列与概率"综合难题分类研究与深度解析报告
+import re
+
+text = '''2026年中国高考数学"数列与概率"综合难题分类研究与深度解析报告
 命题改革背景与双向考点交汇趋势
 高考数学评价体系与分值分布分析
 随着中国高考数学评价体系的持续深化，命题方向已从传统的"知识立意"全面转向"素养立意"与"能力立意"。2025年教育部命制的全国高考数学试卷延续了近年来的改革思路，明确强调"依标命题、源于教材"，旨在引导一线教学回归课堂主渠道，减少机械刷题带来的边际效应，从而重点培养学生的探索性与创新性思维品质 。在这一命题趋势下，试卷设计不仅保证了常规基础题目的稳定性，同时在解答题的后半部分（如第18题和第19题）设置了具有高度区分度、高计算量和深刻数学背景的综合性难题 。
@@ -162,4 +164,9 @@ $$\lambda_1 = \frac{-1 + \sqrt{5}}{4}, \quad \lambda_2 = \frac{-1 - \sqrt{5}}{4}
 一阶非齐次等比化归（待定系数模板）：对于在期望步数求解中频繁出现的 $D_{n+1} = aD_n + b$ 结构，应熟练掌握待定系数模板 $D_{n+1} - x = a(D_n - x)$，其中 $x = \frac{b}{1-a}$，一步到位化归为等比数列，从而大幅度压缩代数推导的时间与失误率。
 高等代数思想的初等化降维：平稳分布对应的极限值实际上是不动点方程 $L = f(L)$ 的解 。在解答题中，可以先通过求解不动点方程"偷看"极限结果，从而在后续的单调性与有界性证明中获得明确的方向指引。这种自顶向下的降维思考，能使学生在面对高计算负荷与创新情境时展现出极强的探索性与创新性思维品质，进而在激烈的选拔中脱颖而出 。
 Works cited
-1. 2025年高考综合改革适应性测试数学试卷评析 - 河南升学网, http://www.hnzsks.com.cn/index/index/articledetail/id/10437.html 2. 高考数学马尔科夫链预测_新浪新闻, https://www.sina.cn/news/detail/5295245027180823.html 3. 高中数学概率马尔科夫链_新浪新闻, https://www.sina.cn/news/detail/5298772663077393.html 4. 马尔可夫链 - 机器之心, https://www.jiqizhixin.com/graph/technologies/fdebe132-cd51-43ba-8bda-a42abc478cbb 5. 随机游走- 维基百科，自由的百科全书, https://zh.wikipedia.org/zh-cn/%E9%9A%A8%E6%A9%9F%E6%BC%AB%E6%AD%A5 6. 马尔可夫链- 维基百科，自由的百科全书, https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E9%93%BE 7. 随机行走与最优化 - Wang's Blog, https://vlight.me/2018/05/24/Random-walks-and-optimization/ 8. 从零开始学习数学建模：随机游走算法_python_小魏冬琅 - MCP技术社区, https://mcp.csdn.net/6800ac63a5baf817cf494d5d.html 9. 动态有权图上的随机游走概率计算 - Lu Yi, https://luyi256.github.io/assets/pdf/CoinFlipWalk.pdf 10. 在方格网上的受限随机游走: r/math - Reddit, https://www.reddit.com/r/math/comments/hj7r9l/trapped_random_walks_on_a_square_grid/?tl=zh-hans
+1. 2025年高考综合改革适应性测试数学试卷评析 - 河南升学网, http://www.hnzsks.com.cn/index/index/articledetail/id/10437.html 2. 高考数学马尔科夫链预测_新浪新闻, https://www.sina.cn/news/detail/5295245027180823.html 3. 高中数学概率马尔科夫链_新浪新闻, https://www.sina.cn/news/detail/5298772663077393.html 4. 马尔可夫链 - 机器之心, https://www.jiqizhixin.com/graph/technologies/fdebe132-cd51-43ba-8bda-a42abc478cbb 5. 随机游走- 维基百科，自由的百科全书, https://zh.wikipedia.org/zh-cn/%E9%9A%A8%E6%A9%9F%E6%BC%AB%E6%AD%A5 6. 马尔可夫链- 维基百科，自由的百科全书, https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E9%93%BE 7. 随机行走与最优化 - Wang's Blog, https://vlight.me/2018/05/24/Random-walks-and-optimization/ 8. 从零开始学习数学建模：随机游走算法_python_小魏冬琅 - MCP技术社区, https://mcp.csdn.net/6800ac63a5baf817cf494d5d.html 9. 动态有权图上的随机游走概率计算 - Lu Yi, https://luyi256.github.io/assets/pdf/CoinFlipWalk.pdf 10. 在方格网上的受限随机游走: r/math - Reddit, https://www.reddit.com/r/math/comments/hj7r9l/trapped_random_walks_on_a_square_grid/?tl=zh-hans'''
+
+with open(r'C:\Users\39173\Desktop\笔记\myobsidan\inbox\讲义.md', 'w', encoding='utf-8') as f:
+    f.write(text)
+
+print('Done')
