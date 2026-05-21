@@ -1,0 +1,448 @@
+LECTURE 3
+
+Readings: Section 1.5
+
+Review
+
+Independence of two events
+
+Independence of a collection of events
+
+Review
+
+•
+
+•
+
+•
+
+•
+
+•
+
+P(A
+
+|
+
+B) =
+
+P(A
+
+B)
+
+∩
+P(B)
+
+,
+
+assuming P(B >
+
+)
+
+0
+
+Multiplication rule:
+
+P(A
+
+∩
+
+B) = P(B)
+
+P(A
+
+·
+
+|
+
+B) = P(A)
+
+P(B
+
+A)
+
+|
+
+·
+
+Total probability theorem:
+
+P( ) = P( )P(
+
+B
+
+A
+
+B A
+|
+
+) + P( c)P(
+A
+
+c
+B A )
+|
+
+Bayes rule:
+
+P(Ai |
+
+B) =
+
+P(Ai)P(B Ai)
+P(B)
+
+|
+
+Models based on conditional
+probabilities
+
+3 tosses of a biased coin:
+P(H) = p, P(T ) = 1
+
+p
+
+−
+p
+
+p
+
+p
+
+1 -  p
+
+1 -  p
+
+p
+
+1 -  p
+
+1 -  p
+
+p
+
+1 -  p
+
+p
+
+1 -  p
+
+p
+
+HHH
+
+HHT
+
+HTH
+
+HTT
+
+THH
+
+THT
+
+TTH
+
+1 -  p
+
+TTT
+
+P(T HT ) =
+
+P(1 head) =
+
+P(ﬁrst toss is H
+
+1 head) =
+
+|
+
+Independence of two events
+
+Conditioning may aﬀect independence
+
+“Defn:” P(B
+
+A) = P(B)
+
+|
+
+– “occurrence of A
+
+provides no information
+about B’s occurrence”
+
+Recall that P(A
+
+B) = P(A)
+
+P(B
+
+A)
+
+|
+
+·
+
+∩
+
+Defn: P(A
+
+B) = P(A)
+
+P(B)
+
+·
+
+∩
+
+Symmetric with respect to A and B
+
+– applies even if P(A) = 0
+
+– implies P(A
+
+B) = P(A)
+
+|
+
+Conditional independence, given C,
+is deﬁned as independence
+under probability law P(
+
+C)
+
+· |
+
+Assume A and B are independent
+
+•
+
+•
+
+A
+
+C
+
+B
+
+•
+
+If we are told that C occurred,
+are A and B independent?
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+1Conditioning may aﬀect independence
+
+Independence of a collection of events
+
+•
+
+Intuitive deﬁnition:
+Information on some of the events tells
+us nothing about probabilities related to
+the remaining events
+
+– E.g.:
+
+P(
+
+A1
+
+∩
+
+( c
+)
+A2 A3 A5 A6
+|
+
+∩
+
+∪
+
+c ) = P(
+
+A1
+
+( c
+A2 ∪
+
+∩
+
+A3))
+
+•
+
+Mathematical deﬁnition:
+Events A1, A2, . . . , An
+are called independent if:
+
+Aj∩· · ·∩
+
+Aq) = P(Ai)P(Aj)
+
+P(Ai∩
+for any distinct indices i, j, . . . , q,
+(chosen from
+
+· · ·
+
+1, . . . , n )
+}
+
+{
+
+P(Aq)
+
+The king’s sibling
+
+•
+
+The king comes from a family of two
+children. What is the probability that
+his sibling is female?
+
+•
+
+•
+
+•
+
+•
+
+Two unfair coins, A and B:
+P(H
+coin B) = 0.1
+choose either coin with equal probability
+
+coin A) = 0.9, P(H
+
+|
+
+|
+
+0.9
+
+Coin A
+
+0.5
+
+0.1
+
+0.5
+
+Coin B
+
+0.1
+
+0.9
+
+0.9
+
+0.1
+
+0.9
+
+0.1
+
+0.1
+
+0.9
+
+0.1
+
+0.9
+
+Once we know it is coin A, are tosses
+independent?
+
+If we do not know which coin it is, are
+tosses independent?
+
+– Compare:
+
+P(toss 11 = H)
+P(toss 11 = H
+
+|
+
+ﬁrst 10 tosses are heads)
+
+Independence vs. pairwise
+independence
+
+Two independent fair coin tosses
+
+– A: First toss is H
+
+– B: Second toss is H
+
+– P(A) = P(B) = 1/2
+
+HH
+
+TH
+
+HT
+
+TT
+
+– C: First and second toss give same
+
+result
+
+– P(C) =
+
+– P(C
+
+– P(A
+
+∩
+
+∩
+
+A) =
+
+C) =
+
+B
+
+∩
+
+– P(C
+
+A
+
+|
+
+∩
+
+B) =
+
+•
+
+Pairwise independence does not
+imply independence
+
+2MIT OpenCourseWare
+http://ocw.mit.edu
+
+6.041 / 6.431 Probabilistic Systems Analysis and Applied Probability
+Fall 2010
+
+For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.
+
+
