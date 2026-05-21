@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+                "file": "Notes/MIT/MIT6.041/课程导学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 06 - 条件PMF与联合分布"
+              "title": "课程导学"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+                "file": "Notes/MIT/MIT6.041/课程导学.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lecture 06 - 条件PMF与联合分布 的大纲"
+              "title": "课程导学 的大纲"
             }
           }
         ],
@@ -205,24 +205,25 @@
   },
   "active": "a569a039f2b94b19",
   "lastOpenFiles": [
+    "Notes/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+    "Notes/MIT/MIT6.041/课程导学.md",
+    "Notes/MIT/MIT6.041/lecture05.pdf",
+    "Notes/MIT/MIT6.041/lecture25_raw.txt",
+    "Notes/MIT/MIT6.041/lecture24_raw.txt",
+    "Notes/MIT/MIT6.041/lecture23_raw.txt",
+    "Notes/MIT/MIT6.041/lecture22_raw.txt",
+    "Notes/MIT/MIT6.041/lecture21_raw.txt",
+    "Notes/MIT/MIT6.041/lecture20_raw.txt",
+    "Notes/MIT/MIT6.041/lecture19_raw.txt",
+    "Notes/MIT/MIT6.041/lecture18_raw.txt",
+    "Notes/MIT/MIT6.041/lecture17_raw.txt",
     "Notes/MIT/MIT6.041/Lecture 05 - 随机变量.md",
     "Notes/MIT/MIT6.041/Lecture 02 - 条件概率与贝叶斯准则.md",
-    "Notes/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
-    "Notes/MIT/MIT6.041/lecture06_raw.txt",
-    "Notes/MIT/MIT6.041/lecture05_raw.txt",
-    "Notes/MIT/MIT6.041/extract56.py",
-    "Notes/MIT/MIT6.041/lecture06.pdf",
-    "Notes/MIT/MIT6.041/lecture05.pdf",
-    "Notes/MIT/MIT6.041/download56.py",
     "Notes/MIT/MIT6.041/Lecture 04 - 计数原理.md",
     "Notes/MIT/MIT6.041/Lecture 01 - Probability Models and Axioms.md",
     "Notes/MIT/MIT6.041/Lecture 01 - 概率模型与公理.md",
     "Notes/MIT/MIT6.041/Lecture 03 - 独立性.md",
     "Notes/MIT/MIT6.041/Lecture 02 - Conditioning and Bayes Rule.md",
-    "Notes/MIT/MIT6.041/lecture04.pdf",
-    "Notes/MIT/MIT6.041/lecture03.pdf",
-    "Notes/MIT/MIT6.041/lecture02.pdf",
-    "Notes/MIT/MIT6.041/lecture01.pdf",
     "Notes/MIT/MIT6.041/Lecture5：.md",
     "Notes/MIT/MIT6.006/Lecture7：Binary Tree 2 AVL.md",
     "Notes/编程/python/python协议（protocol）/上下文管理协议（with关键字.md",
@@ -240,7 +241,6 @@
     "Notes/编程/python/python协议（protocol）/什么是python的协议.md",
     "Notes/编程/python/python协议（protocol）/属性访问协议.md",
     "Notes/编程/python/python协议（protocol）/迭代协议（迭代器）.md",
-    "Notes/Obsidian/obsidian语法.md",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
