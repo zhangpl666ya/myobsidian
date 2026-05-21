@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/MIT/MIT6.041/Lecture 02 - 条件概率与贝叶斯准则.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -205,6 +205,7 @@
   },
   "active": "a569a039f2b94b19",
   "lastOpenFiles": [
+    "Notes/MIT/MIT6.041/Lecture 04 - 计数原理.md",
     "Notes/MIT/MIT6.041/Lecture 01 - Probability Models and Axioms.md",
     "Notes/MIT/MIT6.041/Lecture 01 - 概率模型与公理.md",
     "Notes/MIT/MIT6.041/Lecture 02 - 条件概率与贝叶斯准则.md",
@@ -240,7 +241,6 @@
     "Notes/Obsidian/obsidian语法.md",
     "Notes/编程/python/python协议（protocol）/运算符重载协议.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
