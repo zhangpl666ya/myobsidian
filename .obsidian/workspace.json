@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MIT/MIT6.041/Lecture 03 - 独立性.md",
+                "file": "Notes/MIT/MIT6.041/Lecture 05 - 随机变量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 03 - 独立性"
+              "title": "Lecture 05 - 随机变量"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MIT/MIT6.041/Lecture 03 - 独立性.md",
+                "file": "Notes/MIT/MIT6.041/Lecture 05 - 随机变量.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lecture 03 - 独立性 的大纲"
+              "title": "Lecture 05 - 随机变量 的大纲"
             }
           }
         ],
@@ -205,6 +205,9 @@
   },
   "active": "a569a039f2b94b19",
   "lastOpenFiles": [
+    "Notes/MIT/MIT6.041/Lecture 02 - 条件概率与贝叶斯准则.md",
+    "Notes/MIT/MIT6.041/Lecture 01 - 概率模型与公理.md",
+    "Notes/MIT/MIT6.041/Lecture 03 - 独立性.md",
     "Notes/MIT/MIT6.041/课程导学.md",
     "Notes/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
     "Notes/MIT/MIT6.041/lecture05.pdf",
@@ -218,11 +221,8 @@
     "Notes/MIT/MIT6.041/lecture18_raw.txt",
     "Notes/MIT/MIT6.041/lecture17_raw.txt",
     "Notes/MIT/MIT6.041/Lecture 05 - 随机变量.md",
-    "Notes/MIT/MIT6.041/Lecture 02 - 条件概率与贝叶斯准则.md",
     "Notes/MIT/MIT6.041/Lecture 04 - 计数原理.md",
     "Notes/MIT/MIT6.041/Lecture 01 - Probability Models and Axioms.md",
-    "Notes/MIT/MIT6.041/Lecture 01 - 概率模型与公理.md",
-    "Notes/MIT/MIT6.041/Lecture 03 - 独立性.md",
     "Notes/MIT/MIT6.041/Lecture 02 - Conditioning and Bayes Rule.md",
     "Notes/MIT/MIT6.041/Lecture5：.md",
     "Notes/MIT/MIT6.006/Lecture7：Binary Tree 2 AVL.md",
