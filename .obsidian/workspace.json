@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/样式踩坑测试.md",
+                "file": "inbox/ollama-status-report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "样式踩坑测试"
+              "title": "ollama-status-report"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/样式踩坑测试.md",
+                "file": "inbox/ollama-status-report.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "样式踩坑测试 的大纲"
+              "title": "ollama-status-report 的大纲"
             }
           }
         ],
@@ -205,19 +205,19 @@
   },
   "active": "a569a039f2b94b19",
   "lastOpenFiles": [
-    "inbox/test_mini.md",
-    "inbox/样式踩坑测试_clean3.md",
-    "inbox/test.tex",
     "inbox/样式踩坑测试_clean2.md",
-    "inbox/test_clean.tex",
+    "inbox/样式踩坑测试_clean3.md",
     "inbox/样式踩坑测试_clean.md",
-    "inbox/test_output.tex",
     "inbox/样式踩坑测试.pdf",
+    "inbox/样式踩坑测试.md",
+    "inbox/test_mini.md",
+    "inbox/test.tex",
+    "inbox/test_clean.tex",
+    "inbox/test_output.tex",
     "inbox/article_meta.json",
     "inbox/article.md",
     "inbox/images",
     "inbox/讲义.md",
-    "inbox/样式踩坑测试.md",
     "inbox/讲义_backup.md",
     "inbox/论文.md",
     "inbox/未命名.md",
@@ -240,7 +240,6 @@
     "Notes/编程/python/python协议（protocol）/上下文管理协议（with关键字.md",
     "Notes/编程/python/python协议（protocol）/可调用协议.md",
     "Notes/编程/python/python协议（protocol）/描述符协议.md",
-    "Notes/编程/python/python协议（protocol）/容器、序列协议.md",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
