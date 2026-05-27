@@ -170,14 +170,14 @@ $$E[T] = \frac{200}{E[V]} = \frac{200}{100.5} = E[200/V] \quad \text{—— 注�
 
 ##  本讲要点
 
-| 概念 | 公式 |
-|------|------|
-| 条件 PMF | $p_{X\|A}(x) = P(X=x \mid A)$ |
-| 几何无记忆性 | $P(X > s+t \mid X > s) = P(X > t)$ |
-| 全期望定理 | $E[X] = \sum_i P(A_i)E[X \mid A_i]$ |
-| 几何分布期望 | $E[X] = 1/p$ |
-| 联合 PMF | $p_{X,Y}(x,y) = P(X=x, Y=y)$ |
-| 边缘 PMF | $p_X(x) = \sum_y p_{X,Y}(x,y)$ |
+| 概念     | 公式                                           |
+| ------ | -------------------------------------------- |
+| 条件 PMF | $p_{X\|A}(x) = P(X=x \mid A)$                |
+| 几何无记忆性 | $P(X > s+t \mid X > s) = P(X > t)$           |
+| 全期望定理  | $E[X] = \sum_i P(A_i)E[X \mid A_i]$          |
+| 几何分布期望 | $E[X] = 1/p$                                 |
+| 联合 PMF | $p_{X,Y}(x,y) = P(X=x, Y=y)$                 |
+| 边缘 PMF | $p_X(x) = \sum_y p_{X,Y}(x,y)$               |
 | 条件 PMF | $p_{X\|Y}(x \mid y) = p_{X,Y}(x,y) / p_Y(y)$ |
 
 ---
