@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+                "file": "4 日记/尝鲜的工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 06 - 条件PMF与联合分布"
+              "title": "尝鲜的工具"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+                "file": "4 日记/尝鲜的工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lecture 06 - 条件PMF与联合分布 的反向链接列表"
+              "title": "尝鲜的工具 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+                "file": "4 日记/尝鲜的工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lecture 06 - 条件PMF与联合分布 的出链列表"
+              "title": "尝鲜的工具 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+                "file": "4 日记/尝鲜的工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lecture 06 - 条件PMF与联合分布 的大纲"
+              "title": "尝鲜的工具 的大纲"
             }
           }
         ],
@@ -176,6 +176,8 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
+    "1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
+    "4 日记/尝鲜的工具.md",
     "4 日记/暑期目标！.md",
     "0 Inbox/未命名.base",
     "2 工具/Obsidian/obsidian语法.md",
@@ -208,7 +210,6 @@
     "0 Inbox/article_meta.json",
     "0 Inbox/article.md",
     "0 Inbox/images",
-    "0 Inbox/讲义.md",
     "0 Inbox/wrap_math2.py",
     "0 Inbox/wrap_math.py",
     "attachment/Pasted image 20260206110957.png",
