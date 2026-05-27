@@ -124,7 +124,7 @@ PS:
 * a\\ a
 * a\\quad a
 * a\\qquad a
-* $$
+$$
  a\,a
  a\ a
  a\quad a
