@@ -118,10 +118,11 @@ git revert <commit ID> #会新建commit
     ```
     
 - `git restore <文件>`：用于恢复工作区文件（替代 `git checkout -- <文件>`），例如：
-  ```bash
+```bash
     git restore README.md  # 用暂存区内容覆盖工作区的 README.md
     git restore --staged README.md  # 取消暂存（将暂存区的修改放回工作区，替代 reset HEAD）
-    ```
+```
+
 
 
 ## 合并分支
