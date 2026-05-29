@@ -1,0 +1,614 @@
+LECTURE 9
+
+Continuous r.v.’s and pdf’s
+
+Readings: Sections 3.4-3.5
+
+Outline
+
+PDF review
+
+Multiple random variables
+
+– conditioning
+
+– independence
+
+Examples
+
+•
+
+•
+
+•
+
+•
+
+Summary of concepts
+
+pX(x)
+
+fX(x)
+
+xpX(x)
+
+x
+￿
+
+F (x)
+X
+E[X]
+
+var(X)
+
+xfX(x) dx
+
+￿
+
+pX,Y (x, y)
+A(x)
+pX
+|
+)
+pX Y (x y
+
+|
+
+|
+
+fX,Y (x, y)
+fX A(x)
+|
+fX (x
+Y
+|
+
+|
+
+y)
+
+Joint PDF fX,Y (x, y)
+
+P((X, Y )
+
+S) =
+
+∈
+
+S
+
+￿ ￿
+
+fX,Y (x, y) dx dy
+
+Interpretation:
+
+•
+P x X x δ, y
+
++
+
+(
+
+≤ ≤
+
+Y
+≤ ≤
+
+y δ
+
++ )
+
+)
+(
+fX,Y x, y δ
+·
+
+≈
+
+2
+
+Expectations:
+
+E g X, Y
+
+[ (
+
+)] =
+
+∞
+
+∞ (
+
+g x, y)fX,Y (x, y) dx dy
+
+￿
+
+￿
+−∞ −∞
+
+From the joint to the marginal:
+
+fX(x)
+
+δ
+
+·
+
+≈
+
+P(x
+
+X
+
+≤
+
+≤
+
+x + δ) =
+
+X and Y are called independent if
+
+•
+
+•
+
+•
+
+fX,Y (x, y) = X( )
+
+x fY (y),
+
+f
+
+for all x, y
+
+S a m p l e   S p a c e
+
+f
+
+(x)X
+
+Event {a < X < b }
+
+a 
+
+b
+
+x 
+
+P(a
+
+X
+
+≤
+
+≤
+
+b) = f
+￿
+
+a
+
+X(x) dx
+
+b
+
+•
+
+•
+
+P(x
+
+X
+
+≤
+
+≤
+
+x + δ)
+
+fX(x)
+
+δ
+
+·
+
+≈
+
+E[g(X)] =
+
+∞ g(x)fX(x) dx
+−∞
+
+￿
+
+Buﬀon’s needle
+
+Parallel lines at distance d
+Needle of length ￿ (assume ￿ < d)
+Find P(needle intersects one of the lines)
+
+q
+
+x
+
+l
+
+d
+
+∈
+
+[0, d/2]: distance of needle midpoint
+
+X
+to nearest line
+Model: X, Θ uniform, independent
+
+f
+
+X,Θ
+
+(
+x, θ
+
+) =
+
+0
+
+x
+≤ ≤
+
+d/ ,
+
+2 0
+
+θ
+≤ ≤
+
+π/2
+
+Intersect if X
+
+￿
+2
+
+≤
+
+sin Θ
+
+•
+
+•
+
+•
+
+•
+
+•
+
+￿
+2
+
+≤
+
+P
+
+X
+
+￿
+
+sin Θ
+
+=
+
+￿
+
+￿ ￿
+
+fX(x)fΘ(θ) dx dθ
+
+sin θ
+
+￿x
+2
+≤
+π/2
+
+=
+
+=
+
+4
+πd 0
+￿
+
+(￿/2) sin θ
+
+0
+
+￿
+
+dx dθ
+
+4
+πd 0
+￿
+
+π/2 ￿
+2
+
+sin θ
+
+dθ =
+
+2￿
+πd
+
+1Conditioning
+
+Recall
+
+P(x
+
+X
+
+≤
+
+≤
+
+x + δ)
+
+fX(x)
+
+δ
+
+·
+
+≈
+
+By analogy, would like:
+
+P(x
+
+X
+
+≤
+
+≤
+
+x + δ
+
+Y
+
+|
+
+y)
+
+fX (
+Y x
+|
+
+|
+
+y)
+
+δ
+
+·
+
+≈
+
+≈
+
+This leads us to the deﬁnition:
+
+fX Y (x
+|
+
+|
+
+y) =
+
+fX,Y (x, y)
+fY (y)
+
+if fY (y) > 0
+
+For given y, conditional PDF is a
+(normalized) “section” of the joint PDF
+
+If independent, fX,Y = fXfY , we obtain
+
+fX Y (x
+|
+
+|
+
+y) =f X(x)
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Stick-breaking example
+
+•
+
+Break a stick of length ￿ twice:
+break at X: uniform in [0, 1];
+break again at Y , uniform in [0, X]
+
+f
+
+X
+
+(x)  
+
+f
+
+(y | x)
+
+Y   |X 
+
+L
+
+x
+
+fX,Y (x, y) =f X(x)fY X(y
+
+|
+
+on the set:
+
+ y 
+
+L
+
+ y 
+
+x) =
+
+|
+
+Joint, Marginal and Conditional Densities
+
+Area of slice = Height of marginal
+density at x
+
+Slice through
+density surface
+for fixed x
+
+Renormalizing slices for
+fixed x gives conditional
+densities for Y given X = x
+
+Image by MIT OpenCourseWare, adapted from
+Probability, by J. Pittman, 1999.
+
+1
+fX,Y (x, y) = ,
+￿x
+
+0
+
+y
+
+x
+
+￿
+
+≤
+
+≤
+
+≤
+
+ y 
+
+L
+
+fY (y) =
+
+=
+
+L
+
+x  
+
+￿
+
+fX,Y (x, y) dx
+￿ 1
+y ￿x
+￿
+1
+￿
+
+dx
+
+￿
+= log ,
+y
+
+0
+
+y
+
+￿
+
+≤
+
+≤
+
+L
+
+x  
+
+E[Y
+
+|
+
+X = x] =
+
+yfY
+
+(y
+
+X
+
+|
+
+|
+
+￿
+
+X
+
+= x
+
+) dy =
+
+E[Y ] =
+
+￿
+
+0
+
+￿
+
+yfY (y) dy =
+
+￿
+
+￿ 1
+￿
+
+￿
+y log dy =
+y
+
+0
+
+￿
+4
+
+2 
+ 
+ 
+MIT OpenCourseWare
+http://ocw.mit.edu
+
+6.041 / 6.431 Probabilistic Systems Analysis and Applied Probability
+Fall 2010
+
+For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.
+
+

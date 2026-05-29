@@ -1,0 +1,767 @@
+LECTURE 11
+
+A general formula
+
+Derived distributions; convolution;
+covariance and correlation
+
+•
+
+Readings:
+Finish Section 4.1;
+Section 4.2
+
+Example
+
+f
+
+(y,x)=1
+
+X ,Y
+
+y 
+
+1
+
+1
+
+x 
+
+Find the PDF of Z = g(X, Y ) = Y /X
+
+F
+
+Z
+
+(z
+
+) =
+
+FZ(z) =
+
+z
+
+z
+
+1
+
+1
+
+≤
+
+≥
+
+The distribution of X + Y
+
+W = X + Y ; X, Y independent
+
+•
+
+.
+
+.
+
+y 
+
+(0,3)
+
+.(1,2)
+
+.(2,1)
+
+.(3,0)
+.
+pW (w) = P(X + Y = w)
+
+x  
+
+=
+
+=
+
+x
+"
+
+x
+"
+
+P(X = x)P(Y = w
+
+x)
+
+−
+
+p (x)p (w
+
+X
+
+Y
+
+x)
+
+−
+
+Mechanics:
+
+•
+
+– Put the pmf’s on top of each other
+
+– Flip the pmf of Y
+
+– Shift the ﬂipped pmf by w
+(to the right if w > 0)
+
+– Cross-multiply and add
+
+•
+
+Let Y = g(X)
+g strictly monotonic.
+
+y
+
+slope 
+
+d g
+dx
+
+(x)
+
+[y, y+?]
+
+g(x)
+
+x
+
+[x, x+d]
+
+•
+
+•
+
+•
+
+•
+
+•
+
+x + δ is the same as
+
+≤
+
+Event x
+X
+≤
+g(x)
+g(x + δ)
+Y
+≤
+or (approximately)
+g(x) + δ
+g(x)
+
+≤
+
+Y
+
+≤
+
+≤
+
+(dg/dx)(x)
+
+|
+
+|
+
+Hence,
+
+δfX(x) = δfY (y)
+
+where y = g(x)
+
+dg
+dx
+
+(x)
+
+!
+!
+!
+!
+
+!
+!
+!
+!
+
+The continuous case
+
+W = X + Y ; X, Y independent
+
+y
+
+w 
+
+w
+
+x
+
+x + y = w
+
+fW X(w
+|
+
+|
+
+x) = fY (w
+
+x)
+
+−
+
+fW,X(w, x) =f X(x)f
+
+X(w
+
+x)
+
+|
+
+W
+
+|
+
+= fX(x)fY (w x)
+
+−
+
+f (w) =
+
+• W
+
+∞
+
+fX(x)fY (w
+
+#
+
+−∞
+
+x) dx
+
+−
+
+1 
+ 
+ 
+ 
+Two independent normal r.v.s
+
+The sum of independent normal r.v.’s
+
+•
+
+N (
+X
+independent
+
+µx, σx),
+
+∼
+
+2
+
+Y
+
+∼
+
+N (
+
+µy, σy ),
+
+2
+
+fX,Y (x, y) =f X(x)fY (y)
+
+=
+
+1
+2πσxσy
+
+exp
+
+(
+
+x
+
+µ
+x
+−
+2
+2σx
+
+−
+
+$
+
+)2
+
+(
+
+y
+
+−
+
+)2
+
+µy
+−
+2
+2σy
+
+%
+
+PDF is constant on the ellipse where
+
+(x
+
+2µx)
+
+−
+2σ2
+x
+
+(
+y
+
++
+
+µy)2
+
+−
+2σ2
+y
+
+is constant
+
+Ellipse is a circle when σx = σy
+
+2
+
+N (0, σx),
+
+X
+independent
+
+∼
+
+N (0, σy ),
+
+2
+
+Y
+
+∼
+
+Let
+
+W = X + Y
+
+•
+
+•
+
+fW (w) =
+
+=
+
+∞ fX(x)fY (w
+#
+−∞1
+2πσxσy
+2
+γw
+
+#−∞
+
+e
+−
+
+∞
+
+x) dx
+
+−
+2x /2 2
+σ
+
+(algebra) = ce
+
+−
+
+e
+x −
+
+(w
+
+−
+
+2
+
+x)
+
+/2σ
+
+2
+y dx
+
+Conclusion:
+
+W is normal
+
+•
+
+– mean=0, variance= 2σx + 2σy
+
+– same argument for nonzero mean case
+
+Covariance
+
+Correlation coeﬃcient
+
+cov(X, Y ) = E
+
+E[X])
+
+(Y
+
+E[Y ])
+
+−
+Zero-mean case: cov(X, Y ) = E [XY ]
+
+−
+
+·
+
+(X
+&
+
+’
+
+•
+
+Dimensionless version of covariance:
+
+ρ = E
+
+(X E[X]) (Y E[Y ])
+·
+
+−
+σY
+
+-
+
+−
+σX
+X, Y )
+
+,
+cov(
+
+x 
+
+.
+
+.
+.
+
+.
+.
+.
+.
+.
+. . . .
+.
+..
+.
+.
+.
+.
+.
+.
+. .
+.
+.
+.
+. . . .
+.
+. .
+.
+.
+.
+.. .
+.
+.
+.
+.
+.
+.
+. .
+.
+.
+.
+. .
+.
+.
+
+.
+
+.
+..
+. .
+
+.
+
+.
+
+.
+
+.
+
+y 
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+..
+
+.
+
+x 
+
+.
+
+.
+
+.
+
+=
+
+σXσY
+
+..
+
+. .
+.
+
+.
+
+.
+
+.
+
+..
+
+.
+
+.
+
+..
+.
+..
+.
+.
+...
+
+..
+
+.
+
+.
+
+.
+..
+
+.
+
+.
+
+..
+
+...... .
+
+.
+
+.
+... ..
+
+. .
+
+...
+
+.
+
+..
+
+...
+.
+
+.
+
+. ...
+
+.
+
+1
+
+1
+
+ρ
+
+≤
+
+≤
+
+• −
+
+y 
+
+• |
+
+ρ = 1
+(linearly related)
+
+⇔
+
+|
+
+−
+
+(X E[X]) = c(Y
+
+E[Y ])
+
+−
+
+..
+
+.
+
+..
+
+..
+
+.
+
+cov(X, Y ) = E[XY ]
+
+E[X]E[Y ]
+
+−
+
+n
+
+n
+
+•
+
+Independent
+ρ = 0
+(converse is not true)
+
+⇒
+
+var(Xi) + 2
+
+cov(Xi, Xj
+
+)
+
+(i,j"):i=j
+
+var
+
+
+
+X
+i
+
+
+
+=
+
+=1
+i"
+
+i"=1
+
+
+
+
+independent
+(converse is not true)
+
+⇒
+
+cov(X, Y ) = 0
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+2&
+MIT OpenCourseWare
+http://ocw.mit.edu
+
+6.041 / 6.431 Probabilistic Systems Analysis and Applied Probability
+Fall 2010
+
+For information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms.
+
+
