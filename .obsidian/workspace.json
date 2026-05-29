@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 工具/Git/git常用命令.md",
+                "file": "1 学习/MIT/MIT6.041/Lecture 11 - 卷积、协方差与相关性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git常用命令"
+              "title": "Lecture 11 - 卷积、协方差与相关性"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 工具/Git/git常用命令.md",
+                "file": "1 学习/MIT/MIT6.041/Lecture 11 - 卷积、协方差与相关性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "git常用命令 的出链列表"
+              "title": "Lecture 11 - 卷积、协方差与相关性 的出链列表"
             }
           },
           {
@@ -176,8 +176,10 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
-    "2 工具/Git/Git概述.md",
+    "1 学习/MIT/MIT6.041/Lecture 09 - 多元连续随机变量与条件分布.md",
+    "1 学习/MIT/MIT6.041/Lecture 10 - 连续贝叶斯法则与导出分布.md",
     "2 工具/Git/git常用命令.md",
+    "2 工具/Git/Git概述.md",
     "Notes_OLD/Dockers/desktop.ini",
     "4 日记/暑期计划.md",
     "4 日记/暑期目标！.md",
@@ -203,8 +205,6 @@
     "2 工具/Docker/01-Docker基础概念.md",
     "1 学习/编程/Python/环境管理/conda.md",
     "0 Inbox/ollama-status-report.md",
-    "0 Inbox/样式踩坑测试_clean2.md",
-    "0 Inbox/样式踩坑测试_clean3.md",
     "0 Inbox/样式踩坑测试.pdf",
     "0 Inbox/test.tex",
     "0 Inbox/test_clean.tex",
