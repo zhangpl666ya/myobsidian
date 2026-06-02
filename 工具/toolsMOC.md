@@ -64,7 +64,9 @@ tags:
 - [[笔记软件/Obsidian/注意事项]]
 - [[笔记软件/Obsidian/HTML文本样式标签表]]
 - [[笔记软件/Obsidian/图片]]
+- [[笔记软件/Obsidian/YAML Frontmatter 与 --- 分隔符]] — 元数据 + 分隔线
 
 ## ⌨️ 编辑器
 
 - [[编辑器/Vim/Vim]] — 模式介绍
+- [[编辑器/Vim/vim模式示意图]] — 图解三种模式

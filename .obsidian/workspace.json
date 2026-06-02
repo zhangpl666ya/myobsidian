@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/笔记软件/Obsidian/YAML Frontmatter 与 --- 分隔符.md",
+                "file": "Inbox/未命名 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YAML Frontmatter 与 --- 分隔符"
+              "title": "未命名 1"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/笔记软件/Obsidian/YAML Frontmatter 与 --- 分隔符.md",
+                "file": "Inbox/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "YAML Frontmatter 与 --- 分隔符 的出链列表"
+              "title": "未命名 1 的出链列表"
             }
           },
           {
@@ -177,8 +177,8 @@
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
     "工具/toolsMOC.md",
-    "Inbox/未命名 1.md",
     "工具/笔记软件/Obsidian/YAML Frontmatter 与 --- 分隔符.md",
+    "Inbox/未命名 1.md",
     "Inbox/未命名.md",
     "Inbox/未命名.base",
     "学习/编程语言/Python/pythonMOC.md",
