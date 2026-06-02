@@ -61,6 +61,7 @@ tags:
 - [[网络请求 错误处理]] — try/except 模板
 - [[BeautifulSoup]] — HTML 解析
 - [[JSON 与 API 响应]] — json.dumps / loads
+- [[AI调用的多轮对话实现]] — 实战
 - [[包/PySide6/信号槽机制]] — Qt GUI 信号/槽
 - [[包/Regex|Regex]] — 正则
 - [[快速看懂json结构]] — JSON 速查
