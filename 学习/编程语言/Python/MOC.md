@@ -56,11 +56,11 @@ tags:
 
 ## 📚 工具包 (包/)
 
-- [[学习/编程语言/Python/包/requests 库]] — HTTP 客户端
-- [[学习/编程语言/Python/包/requests 实战]] — 实战模板
-- [[学习/编程语言/Python/包/网络请求 错误处理]] — try/except 模板
-- [[学习/编程语言/Python/包/BeautifulSoup]] — HTML 解析
-- [[学习/编程语言/Python/包/JSON 与 API 响应]] — json.dumps / loads
+- [[requests 库]] — HTTP 客户端
+- [[requests 实战]] — 实战模板
+- [[网络请求 错误处理]] — try/except 模板
+- [[BeautifulSoup]] — HTML 解析
+- [[JSON 与 API 响应]] — json.dumps / loads
 - [[学习/编程语言/Python/包/PySide6/信号槽机制]] — Qt GUI 信号/槽
 - [[学习/编程语言/Python/包/Regex|Regex]] — 正则
 - [[学习/编程语言/Python/快速看懂json结构]] — JSON 速查

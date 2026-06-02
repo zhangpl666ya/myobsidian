@@ -26,6 +26,6 @@ requests.post("url",data = data)
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/包/requests 库]]
+- [[requests 库]]
 - [[工具/版本控制/Git/Github]]
 - [[项目/AI agent skills/调用本地大模型读取网页内容（基础版）]]

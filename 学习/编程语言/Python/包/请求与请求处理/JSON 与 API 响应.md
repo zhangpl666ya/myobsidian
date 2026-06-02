@@ -61,4 +61,4 @@ ai_text = response.json()["choices"][0]["message"]["content"]
 ## 相关笔记
 
 - [[学习/编程语言/Python/快速看懂json结构]]
-- [[学习/编程语言/Python/包/requests 库]]
+- [[requests 库]]

@@ -36,4 +36,4 @@ print(data[0]['meanings'][0]['definitions'][0])  # {'definition': '...', ...}
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/包/JSON 与 API 响应]]
+- [[JSON 与 API 响应]]

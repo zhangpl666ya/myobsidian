@@ -13,7 +13,7 @@ tags: [Python, 网络请求, BeautifulSoup, HTML 解析]
 
 ## 库的定位
 
-- **本质**：DOM 树解析器（常与 [[学习/编程语言/Python/包/requests 库]] 配合做爬虫；返回数据清洗时可上 [[学习/编程语言/Python/Regex]]），吃进 HTML 文本搭出节点-标签图
+- **本质**：DOM 树解析器（常与 [[requests 库]] 配合做爬虫；返回数据清洗时可上 [[学习/编程语言/Python/Regex]]），吃进 HTML 文本搭出节点-标签图
 - **作用**：从 HTML 中提取数据，配合 `requests` 做爬虫
 
 ## 初始化
@@ -85,6 +85,6 @@ url = tag['href'] if 'href' in tag.attrs else "default"
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/包/requests 库]]
+- [[requests 库]]
 - [[学习/编程语言/Python/Regex]]
 - [[项目/AI agent skills/调用本地大模型读取网页内容（基础版）]]

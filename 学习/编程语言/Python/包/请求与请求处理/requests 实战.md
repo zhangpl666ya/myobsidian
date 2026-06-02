@@ -73,5 +73,5 @@ response.raise_for_status()
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/包/requests 库]]
-- [[学习/编程语言/Python/包/网络请求 错误处理]]
+- [[requests 库]]
+- [[网络请求 错误处理]]

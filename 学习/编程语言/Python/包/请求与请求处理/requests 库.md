@@ -14,7 +14,7 @@ tags: [Python, 网络请求, requests]
 ## 库的定位
 
 - **本质**：高阶 HTTP 客户端，定位类似 `curl` 的封装
-- **执行模型**：**同步阻塞** — 发起调用后程序挂起直到数据返回（实战模板见 [[学习/编程语言/Python/包/requests 实战]]，错误处理见 [[学习/编程语言/Python/包/网络请求 错误处理]]）
+- **执行模型**：**同步阻塞** — 发起调用后程序挂起直到数据返回（实战模板见 [[requests 实战]]，错误处理见 [[网络请求 错误处理]]）
 - **优点**：比浏览器引擎快、配置开销低、API 简洁
 - **缺点**：**不能执行 JS**，只能拿到服务器原始 HTML（抓 SPA 页面要用 Selenium/Playwright）
 
@@ -66,6 +66,6 @@ fake_headers = {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/包/requests 实战]]
-- [[学习/编程语言/Python/包/网络请求 错误处理]]
+- [[requests 实战]]
+- [[网络请求 错误处理]]
 - [[项目/AI agent skills/repo info 获取]]
