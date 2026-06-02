@@ -82,7 +82,7 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[Lecture3：Sorting]]
+- [[Lecture 03 - Sorting]]
 - [[编程语言/C++/STL/Container/Vector]]
 - [[编程语言/C++/STL/Container/Map]]
 - [[编程语言/Python/数据结构/基础数据结构]]

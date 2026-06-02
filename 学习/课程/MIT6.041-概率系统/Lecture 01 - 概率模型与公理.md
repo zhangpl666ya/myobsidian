@@ -152,6 +152,6 @@ $$P(\text{偶数}) = P(2) + P(4) + P(6) + \cdots = \frac{1}{4} + \frac{1}{16} + 
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[Lecture 02 - 条件概率与贝叶斯]]
+- [[Lecture 02 - 条件概率与贝叶斯准则]]
 - [[课程导学]]
 - [[未命名]] — 概率是 AI 路线基石

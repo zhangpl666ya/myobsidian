@@ -86,6 +86,6 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[Lecture7：Binary Tree 2 AVL]]
+- [[Lecture 07 - Binary Tree 2 AVL]]
 - [[Excalidraw/tree_rotate]]
 - [[编程语言/Python/数据结构/基础数据结构]]

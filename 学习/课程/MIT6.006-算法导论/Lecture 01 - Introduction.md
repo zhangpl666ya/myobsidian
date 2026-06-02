@@ -51,5 +51,5 @@ Asymptotic Notations渐进符号：
 ## 相关笔记
 
 - [[README]]
-- [[Lecture2 ：Data Structure]]
+- [[Lecture 02 - Data Structure]]
 - [[编程语言/Python/数据结构/基础数据结构]]

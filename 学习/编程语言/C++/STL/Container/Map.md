@@ -188,4 +188,4 @@ for (const auto& pair : m) {
 - [[重载运算符]] — 自定义 key 需要重载 <
 - [[Lambda]]
 - [[Template]]
-- [[课程/MIT6.006-算法导论/Lecture4：Hashing]] — 与哈希表对比
+- [[Lecture 04 - Hashing]] — 与哈希表对比

@@ -45,7 +45,7 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[Lecture3：Sorting]]
-- [[Lecture5：Linear Sorting]]
+- [[Lecture 03 - Sorting]]
+- [[Lecture 05 - Linear Sorting]]
 - [[编程语言/C++/STL/Container/Map]]
 - [[编程语言/Python/数据结构/基础数据结构]] — dict 即哈希表

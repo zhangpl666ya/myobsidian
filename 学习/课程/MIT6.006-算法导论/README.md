@@ -28,5 +28,5 @@ tags:
 ## 相关笔记
 
 - [[未命名]] — 6.006 在 AI 路线中是核心枢纽
-- [[Lecture1： Introduction]]
-- [[Lecture2 ：Data Structure]]
+- [[Lecture 01 - Introduction]]
+- [[Lecture 02 - Data Structure]]
