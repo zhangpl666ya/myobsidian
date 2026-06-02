@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 学习/MIT/MIT6.041/Lecture 11 - 卷积、协方差与相关性.md",
+                "file": "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 11 - 卷积、协方差与相关性"
+              "title": "Beautifulsoup Library Cheatsheet"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "03041123a7700636",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 学习/MIT/MIT6.041/Lecture 11 - 卷积、协方差与相关性.md",
+                "file": "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lecture 11 - 卷积、协方差与相关性 的出链列表"
+              "title": "Beautifulsoup Library Cheatsheet 的出链列表"
             }
           },
           {
@@ -176,6 +177,13 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
+    "1 学习/编程/Python/包/Requests Library Cheatsheet.md",
+    "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
+    "1 学习/编程/Python/包/PySide6/信号槽机制.md",
+    "1 学习/编程/Python/包/requests",
+    "1 学习/MIT/MIT6.041/Lecture 11 - 卷积、协方差与相关性.md",
+    "1 学习/编程/Python/包",
+    "1 学习/编程/Python/未命名.md",
     "1 学习/MIT/MIT6.041/Lecture 09 - 多元连续随机变量与条件分布.md",
     "1 学习/MIT/MIT6.041/Lecture 10 - 连续贝叶斯法则与导出分布.md",
     "2 工具/Git/git常用命令.md",
@@ -200,18 +208,11 @@
     "1 学习/LaTeX/Latex配置知识.md",
     "2 工具/Docker/04-Docker-Compose入门.md",
     "2 工具/Docker/00-Docker学习笔记导航.md",
-    "2 工具/Docker/03-Dockerfile进阶-多阶段构建.md",
-    "2 工具/Docker/02-Dockerfile基础.md",
-    "2 工具/Docker/01-Docker基础概念.md",
-    "1 学习/编程/Python/环境管理/conda.md",
-    "0 Inbox/ollama-status-report.md",
     "0 Inbox/样式踩坑测试.pdf",
     "0 Inbox/test.tex",
     "0 Inbox/test_clean.tex",
     "0 Inbox/test_output.tex",
     "0 Inbox/article_meta.json",
-    "0 Inbox/images",
-    "0 Inbox/wrap_math2.py",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
