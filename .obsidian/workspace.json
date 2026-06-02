@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
+                "file": "1 学习/编程/Python/包/Requests Library Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beautifulsoup Library Cheatsheet"
+              "title": "Requests Library Cheatsheet"
             }
           }
         ]
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
+                "file": "1 学习/编程/Python/包/Requests Library Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Beautifulsoup Library Cheatsheet 的出链列表"
+              "title": "Requests Library Cheatsheet 的出链列表"
             }
           },
           {
@@ -177,8 +177,9 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
-    "1 学习/编程/Python/包/Requests Library Cheatsheet.md",
     "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
+    "1 学习/编程/Python/包/Requests Library Cheatsheet.md",
+    "1 学习/编程/Python/包/未命名",
     "1 学习/编程/Python/包/PySide6/信号槽机制.md",
     "1 学习/编程/Python/包/requests",
     "1 学习/MIT/MIT6.041/Lecture 11 - 卷积、协方差与相关性.md",
@@ -207,12 +208,10 @@
     "1 学习/LaTeX/图片.md",
     "1 学习/LaTeX/Latex配置知识.md",
     "2 工具/Docker/04-Docker-Compose入门.md",
-    "2 工具/Docker/00-Docker学习笔记导航.md",
     "0 Inbox/样式踩坑测试.pdf",
     "0 Inbox/test.tex",
     "0 Inbox/test_clean.tex",
     "0 Inbox/test_output.tex",
-    "0 Inbox/article_meta.json",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
