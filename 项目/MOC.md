@@ -3,7 +3,7 @@ tags:
   - "笔记/MOC"
 ---
 <!-- related: managed by hermes-linkbot -->
-# 5 项目地图 (Map of Content)
+# 项目地图 (Map of Content)
 
 > 本页是这个主题的**知识地图**。所有相关笔记都汇总在这里，按主题分类，方便你从入口切入整套知识。
 >
