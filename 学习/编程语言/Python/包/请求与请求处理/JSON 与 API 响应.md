@@ -60,5 +60,5 @@ ai_text = response.json()["choices"][0]["message"]["content"]
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/快速看懂json结构]]
+- [[快速看懂json结构]]
 - [[requests 库]]

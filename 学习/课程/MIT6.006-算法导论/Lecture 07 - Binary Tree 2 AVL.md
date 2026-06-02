@@ -41,7 +41,7 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.006-算法导论/Lecture6：Binary Tree 1]]
+- [[Lecture6：Binary Tree 1]]
 - [[Excalidraw/tree_rotate]]
-- [[学习/编程语言/C++/STL/Container/Set]]
-- [[学习/编程语言/C++/STL/Container/Map]]
+- [[编程语言/C++/STL/Container/Set]]
+- [[编程语言/C++/STL/Container/Map]]

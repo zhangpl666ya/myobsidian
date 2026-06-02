@@ -64,7 +64,7 @@ Exiting the context
 
 ### `__exit__()` 方法
 
-`__exit__()` 方法会在 `with` 语句块执行完后自动调用（最常见应用见 [[学习/编程语言/Python/文件管理/二、上下文管理器]]）。  
+`__exit__()` 方法会在 `with` 语句块执行完后自动调用（最常见应用见 [[文件管理/二、上下文管理器]]）。  
 它有四个参数：``def __exit__(self, exc_type, exc_val, exc_tb):
 1. `self`：类的实例
 2. `exc_type`：是异常类型，若with语块内没有抛出异常，它的值是None。若有异常，那么值是异常类
@@ -78,4 +78,4 @@ Exiting the context
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/文件管理/二、上下文管理器]]
+- [[文件管理/二、上下文管理器]]

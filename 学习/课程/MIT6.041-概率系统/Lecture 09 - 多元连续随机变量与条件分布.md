@@ -165,6 +165,6 @@ $$f_{X,Y \mid Z}(x,y \mid z) = \frac{f_{X,Y,Z}(x,y,z)}{f_Z(z)}$$
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.041-概率系统/Lecture 08 - 连续随机变量与PDF]]
-- [[学习/课程/MIT6.041-概率系统/Lecture 10 - 连续贝叶斯法则与导出分布]]
-- [[学习/课程/MIT6.041-概率系统/课程导学]]
+- [[Lecture 08 - 连续随机变量与PDF]]
+- [[Lecture 10 - 连续贝叶斯法则与导出分布]]
+- [[课程导学]]

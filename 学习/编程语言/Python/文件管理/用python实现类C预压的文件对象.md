@@ -56,5 +56,5 @@ class BufferedWriter:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/文件管理/二、上下文管理器]]
-- [[学习/编程语言/Python/上下文管理协议（with关键字]]
+- [[二、上下文管理器]]
+- [[上下文管理协议（with关键字]]

@@ -62,5 +62,5 @@ Linux系统很多内置和第三方软件都支持使用systemctl命令控制启
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/系统/Linux/bash]]
-- [[工具/系统/Linux/Linux的文件]]
+- [[bash]]
+- [[Linux的文件]]

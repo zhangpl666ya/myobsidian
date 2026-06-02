@@ -94,5 +94,5 @@ ollama pull llama3.2:1b   # 轻量级
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[项目/AI agent skills/api key]]
-- [[项目/AI agent skills/调用本地大模型读取网页内容（基础版）]]
+- [[api key]]
+- [[调用本地大模型读取网页内容（基础版）]]

@@ -177,5 +177,5 @@ int main() {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C/header/stdio.h]] — printf 用到 va_list
-- [[学习/编程语言/C++/Lambda]] — C++ 用 variadic template
+- [[stdio.h]] — printf 用到 va_list
+- [[C++/Lambda]] — C++ 用 variadic template

@@ -196,6 +196,6 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C/header/stdio.h]]
-- [[学习/编程语言/C/header/errno.h]]
-- [[学习/编程语言/C++/智能指针]] — C++ 智能指针替代 malloc/free
+- [[stdio.h]]
+- [[errno.h]]
+- [[C++/智能指针]] — C++ 智能指针替代 malloc/free

@@ -116,5 +116,5 @@ C 语言中你手动 `malloc` 时会预留足够空间避免频繁 `realloc`�
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C/header/string.h]] — C 的字符串处理
-- [[学习/编程语言/C++/STL/Container/Vector]] — 内部实现类比 vector
+- [[C/header/string.h]] — C 的字符串处理
+- [[Vector]] — 内部实现类比 vector

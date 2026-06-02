@@ -68,5 +68,5 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/笔记软件/Obsidian/双链]]
-- [[工具/笔记软件/Obsidian/HTML文本样式标签表]]
+- [[双链]]
+- [[HTML文本样式标签表]]

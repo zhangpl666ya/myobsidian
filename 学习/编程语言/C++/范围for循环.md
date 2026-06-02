@@ -94,5 +94,5 @@ for (const char& ch : s) {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Iterator/Iterator是什么]] — range-for 底层用迭代器
-- [[学习/编程语言/C++/STL/Container/Vector]]
+- [[STL/Iterator/Iterator是什么]] — range-for 底层用迭代器
+- [[STL/Container/Vector]]

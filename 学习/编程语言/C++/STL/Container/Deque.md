@@ -214,5 +214,5 @@ int main() {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Container/Vector]]
-- [[学习/编程语言/C++/STL/Container/List]]
+- [[Vector]]
+- [[List]]

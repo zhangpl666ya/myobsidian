@@ -292,5 +292,5 @@ _最后更新：2026-05-25_
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/容器/Docker/03-Dockerfile进阶-多阶段构建]]
-- [[工具/容器/Docker/00-Docker学习笔记导航]]
+- [[03-Dockerfile进阶-多阶段构建]]
+- [[00-Docker学习笔记导航]]

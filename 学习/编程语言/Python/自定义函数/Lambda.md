@@ -117,5 +117,5 @@ print(sorted_by_key)  # 输出：[('小刚', 90), ('小明', 88), ('小红', 95)
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/Lambda]]
-- [[学习/编程语言/Python/可调用协议]]
+- [[C++/Lambda]]
+- [[可调用协议]]

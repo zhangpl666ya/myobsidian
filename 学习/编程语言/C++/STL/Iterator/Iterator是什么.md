@@ -120,9 +120,9 @@ for (auto it = v.begin(); it != v.end(); ) { // 注意这里不写 ++it
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Iterator/Iterator分类]]
-- [[学习/编程语言/C++/STL/Iterator/Iterator Operations]]
-- [[学习/编程语言/C++/STL/Iterator/迭代器统一接口函数]]
-- [[学习/编程语言/C++/STL/Iterator/统一接口原理总结]]
-- [[学习/编程语言/Python/迭代协议（迭代器）]] — 跨语言对比
-- [[学习/编程语言/C++/范围for循环]]
+- [[Iterator分类]]
+- [[Iterator Operations]]
+- [[迭代器统一接口函数]]
+- [[统一接口原理总结]]
+- [[Python/迭代协议（迭代器）]] — 跨语言对比
+- [[范围for循环]]

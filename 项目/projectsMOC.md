@@ -16,11 +16,11 @@ tags:
 
 ## 🐦 AI agent skills 开发日记
 
-- [[项目/AI agent skills/api key]] — API key 备份（敏感）
-- [[项目/AI agent skills/repo info 获取]] — GitHub API 调用
-- [[项目/AI agent skills/调用本地大模型读取网页内容（基础版）]] — requests + bs4 模板
+- [[AI agent skills/api key]] — API key 备份（敏感）
+- [[AI agent skills/repo info 获取]] — GitHub API 调用
+- [[AI agent skills/调用本地大模型读取网页内容（基础版）]] — requests + bs4 模板
 
 ## 🐾 WordPet 桌宠
 
-- [[Inbox/阿对怼队的项目设计文档]] — 项目设计文档
-- [[学习/编程语言/Python/包/PySide6/信号槽机制]] — 桌宠 GUI 用到的技术
+- [[阿对怼队的项目设计文档]] — 项目设计文档
+- [[信号槽机制]] — 桌宠 GUI 用到的技术

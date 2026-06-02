@@ -24,5 +24,5 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/版本控制/Git/Git概述]]
-- [[项目/AI agent skills/repo info 获取]] — GitHub API
+- [[Git概述]]
+- [[repo info 获取]] — GitHub API

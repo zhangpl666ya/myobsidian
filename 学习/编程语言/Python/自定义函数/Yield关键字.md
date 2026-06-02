@@ -129,5 +129,5 @@ print(next(id_gen)) # 101
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/数据结构/Generator Expressions]]
-- [[学习/编程语言/Python/迭代协议（迭代器）]]
+- [[数据结构/Generator Expressions]]
+- [[迭代协议（迭代器）]]

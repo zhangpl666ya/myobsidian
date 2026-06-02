@@ -110,5 +110,5 @@ def radix_sort(A):
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.006-算法导论/Lecture4：Hashing]]
-- [[学习/课程/MIT6.006-算法导论/Lecture3：Sorting]]
+- [[Lecture4：Hashing]]
+- [[Lecture3：Sorting]]

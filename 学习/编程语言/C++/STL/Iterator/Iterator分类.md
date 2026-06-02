@@ -254,8 +254,8 @@ int main() {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Iterator/Iterator是什么]]
-- [[学习/编程语言/C++/STL/Iterator/Iterator Operations]]
-- [[学习/编程语言/C++/STL/Container/Vector]]
-- [[学习/编程语言/C++/STL/Container/List]]
-- [[学习/编程语言/C++/STL/Container/Map]]
+- [[Iterator是什么]]
+- [[Iterator Operations]]
+- [[Container/Vector]]
+- [[Container/List]]
+- [[Container/Map]]

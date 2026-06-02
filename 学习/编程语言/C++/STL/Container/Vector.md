@@ -9,7 +9,7 @@ tags:
 
 - 底层是**动态分配的连续内存数组**，逻辑上元素连续存储（支持随机访问）。
 - 属于 “序列容器”（sequence container），元素按插入顺序排列，无自动排序功能。
-- 与静态数组（`int arr[N]`）对比（随机访问特性见 [[学习/编程语言/C++/STL/Iterator/Iterator分类]]）：
+- 与静态数组（`int arr[N]`）对比（随机访问特性见 [[Iterator/Iterator分类]]）：
     - 优势：动态扩容、支持自动管理内存、提供丰富成员函数。
     - 劣势：扩容时可能拷贝元素（有性能开销）、中间插入 / 删除效率低。
 ```cpp
@@ -397,9 +397,9 @@ vector<vector<int>> mat(m, vector<int>(n, 0));
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Container/List]]
-- [[学习/编程语言/C++/STL/Container/Deque]]
-- [[学习/编程语言/C++/STL/Iterator/Iterator分类]] — vector 配随机访问迭代器
-- [[学习/编程语言/C++/STL/什么是STL]]
-- [[学习/编程语言/C++/范围for循环]]
-- [[学习/编程语言/Python/数据结构/List 列表进阶]]
+- [[List]]
+- [[Deque]]
+- [[Iterator/Iterator分类]] — vector 配随机访问迭代器
+- [[什么是STL]]
+- [[范围for循环]]
+- [[Python/数据结构/List 列表进阶]]

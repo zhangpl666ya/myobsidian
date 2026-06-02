@@ -204,5 +204,5 @@ CMake实际做的是：
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/构建/CMake/CMake总览]]
-- [[工具/构建/Makefile/Makefile]]
+- [[CMake总览]]
+- [[Makefile/Makefile]]

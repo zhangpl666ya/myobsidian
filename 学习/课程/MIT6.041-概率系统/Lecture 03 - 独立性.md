@@ -181,7 +181,7 @@ $$P(A \cap B \cap C) = 0 \neq P(A)P(B)P(C) = \frac{1}{8}$$
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.041-概率系统/Lecture 02 - 条件概率与贝叶斯]]
-- [[学习/课程/MIT6.041-概率系统/Lecture 04 - 计数原理]]
-- [[学习/课程/MIT6.041-概率系统/课程导学]]
-- [[Inbox/未命名]] — 概率是 AI 路线基石
+- [[Lecture 02 - 条件概率与贝叶斯]]
+- [[Lecture 04 - 计数原理]]
+- [[课程导学]]
+- [[未命名]] — 概率是 AI 路线基石

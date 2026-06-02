@@ -43,4 +43,4 @@ su（switch user）：
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/系统/Linux/用户、用户组与权限信息]]
+- [[用户、用户组与权限信息]]

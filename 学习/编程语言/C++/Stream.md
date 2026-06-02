@@ -352,5 +352,5 @@ int main() {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C/header/stdio.h]] — C 用 stdin/stdout/stderr
-- [[学习/编程语言/Python/文件管理/一、基础方法]]
+- [[C/header/stdio.h]] — C 用 stdin/stdout/stderr
+- [[Python/文件管理/一、基础方法]]

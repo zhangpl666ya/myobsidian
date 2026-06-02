@@ -249,4 +249,4 @@ Conda 出了名的“吃硬盘”，如果你以后做机器人视觉或者搞�
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/环境管理/虚拟环境enve]]
+- [[虚拟环境enve]]

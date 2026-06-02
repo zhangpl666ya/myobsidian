@@ -360,4 +360,4 @@ git reset --soft <commit ID>  # 软重置到指定快照
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/版本控制/Git/git常用命令]]
+- [[git常用命令]]

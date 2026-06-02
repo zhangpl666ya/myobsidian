@@ -88,5 +88,5 @@ dict有两个部分，索引和内容，内容部分可以同通过索引推导
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/数据结构/基础数据结构]]
-- [[学习/编程语言/Python/数据结构/Generator Expressions]]
+- [[基础数据结构]]
+- [[Generator Expressions]]

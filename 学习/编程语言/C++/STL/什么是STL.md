@@ -68,7 +68,7 @@ STL 的设计基于泛型编程（Generic Programming），主要由以下四个
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Template]]
-- [[学习/编程语言/C++/STL/Container/Vector]]
-- [[学习/编程语言/C++/STL/Iterator/Iterator是什么]]
-- [[学习/编程语言/C++/Lambda]]
+- [[Template]]
+- [[Container/Vector]]
+- [[Iterator/Iterator是什么]]
+- [[Lambda]]

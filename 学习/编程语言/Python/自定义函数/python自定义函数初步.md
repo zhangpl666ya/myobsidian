@@ -108,6 +108,6 @@ person(**info)  # 等价于person(name="张三", age=20)
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/导言]]
-- [[学习/编程语言/Python/自定义函数/Lambda]]
-- [[学习/编程语言/Python/自定义函数/Yield关键字]]
+- [[导言]]
+- [[Lambda]]
+- [[Yield关键字]]

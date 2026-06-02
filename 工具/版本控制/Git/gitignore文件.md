@@ -133,4 +133,4 @@ Thumbs.db          # Windows缩略图缓存
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/版本控制/Git/Git概述]]
+- [[Git概述]]

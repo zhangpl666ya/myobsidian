@@ -86,6 +86,6 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.006-算法导论/Lecture7：Binary Tree 2 AVL]]
+- [[Lecture7：Binary Tree 2 AVL]]
 - [[Excalidraw/tree_rotate]]
-- [[学习/编程语言/Python/数据结构/基础数据结构]]
+- [[编程语言/Python/数据结构/基础数据结构]]

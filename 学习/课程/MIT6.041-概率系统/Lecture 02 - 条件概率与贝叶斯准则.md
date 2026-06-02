@@ -154,7 +154,7 @@ $$P(A \mid B) = \frac{P(A)P(B \mid A)}{P(B)} = \frac{0.0495}{0.1445} \approx 0.3
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.041-概率系统/Lecture 01 - 概率模型与公理]]
-- [[学习/课程/MIT6.041-概率系统/Lecture 03 - 独立性]]
-- [[学习/课程/MIT6.041-概率系统/课程导学]]
-- [[Inbox/未命名]] — 概率是 AI 路线基石
+- [[Lecture 01 - 概率模型与公理]]
+- [[Lecture 03 - 独立性]]
+- [[课程导学]]
+- [[未命名]] — 概率是 AI 路线基石

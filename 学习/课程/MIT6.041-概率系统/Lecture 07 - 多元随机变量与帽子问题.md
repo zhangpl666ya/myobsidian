@@ -297,6 +297,6 @@ $$E[X] = \sum_{i=1}^{n} E[X_i] = \sum_{i=1}^{n} P(X_i = 1)$$
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.041-概率系统/Lecture 06 - 条件PMF与联合分布]]
-- [[学习/课程/MIT6.041-概率系统/Lecture 08 - 连续随机变量与PDF]]
-- [[学习/课程/MIT6.041-概率系统/课程导学]]
+- [[Lecture 06 - 条件PMF与联合分布]]
+- [[Lecture 08 - 连续随机变量与PDF]]
+- [[课程导学]]

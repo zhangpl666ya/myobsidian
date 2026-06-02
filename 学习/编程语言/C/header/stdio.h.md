@@ -174,6 +174,6 @@ printf("姓名：%s，年龄：%d，成绩：%.1f\n", name, age, score);
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/Stream]] — C++ 用 iostream 替代
-- [[学习/编程语言/Python/文件管理/一、基础方法]]
-- [[学习/编程语言/C/header/stdlib.h]]
+- [[C++/Stream]] — C++ 用 iostream 替代
+- [[Python/文件管理/一、基础方法]]
+- [[stdlib.h]]

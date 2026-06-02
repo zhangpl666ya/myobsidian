@@ -182,6 +182,6 @@ clone干了三件事：
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/版本控制/Git/Git概述]]
-- [[工具/版本控制/Git/Checkout命令]]
-- [[工具/版本控制/Git/confusion]]
+- [[Git概述]]
+- [[Checkout命令]]
+- [[confusion]]

@@ -247,4 +247,4 @@ flags：
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/系统/Linux/各类小技巧快捷键]]
+- [[系统/Linux/各类小技巧快捷键]]

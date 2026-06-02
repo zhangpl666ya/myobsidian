@@ -69,4 +69,4 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/笔记软件/Obsidian/obsidian语法]] — markdown 内的 HTML 用法
+- [[obsidian语法]] — markdown 内的 HTML 用法

@@ -132,6 +132,6 @@ def merge(A,left,right):
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.006-算法导论/Lecture4：Hashing]]
-- [[学习/课程/MIT6.006-算法导论/Lecture5：Linear Sorting]]
-- [[学习/编程语言/C++/STL/Container/Vector]] — 排序的典型容器
+- [[Lecture4：Hashing]]
+- [[Lecture5：Linear Sorting]]
+- [[编程语言/C++/STL/Container/Vector]] — 排序的典型容器

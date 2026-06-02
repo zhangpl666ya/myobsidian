@@ -194,4 +194,4 @@ if (!q.empty()) {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Container/Deque]]
+- [[Deque]]

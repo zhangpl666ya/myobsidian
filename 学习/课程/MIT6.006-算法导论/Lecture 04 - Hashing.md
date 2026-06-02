@@ -45,7 +45,7 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.006-算法导论/Lecture3：Sorting]]
-- [[学习/课程/MIT6.006-算法导论/Lecture5：Linear Sorting]]
-- [[学习/编程语言/C++/STL/Container/Map]]
-- [[学习/编程语言/Python/数据结构/基础数据结构]] — dict 即哈希表
+- [[Lecture3：Sorting]]
+- [[Lecture5：Linear Sorting]]
+- [[编程语言/C++/STL/Container/Map]]
+- [[编程语言/Python/数据结构/基础数据结构]] — dict 即哈希表

@@ -90,5 +90,5 @@ int main() {
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Container/单变量存储多类型数据/Any]]
-- [[学习/编程语言/C++/STL/Container/单变量存储多类型数据/Optional]]
+- [[Any]]
+- [[Optional]]

@@ -183,6 +183,6 @@ $$\sigma_X = \sqrt{\text{var}(X)}$$
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.041-概率系统/Lecture 04 - 计数原理]]
-- [[学习/课程/MIT6.041-概率系统/Lecture 06 - 条件PMF与联合分布]]
-- [[学习/课程/MIT6.041-概率系统/课程导学]]
+- [[Lecture 04 - 计数原理]]
+- [[Lecture 06 - 条件PMF与联合分布]]
+- [[课程导学]]

@@ -413,6 +413,6 @@ C++14的东西**谁爱研究谁研究去**
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/什么是STL]]
-- [[学习/编程语言/C++/Using关键字]]
-- [[学习/编程语言/C++/STL/Container/Map]]
+- [[什么是STL]]
+- [[Using关键字]]
+- [[Container/Map]]

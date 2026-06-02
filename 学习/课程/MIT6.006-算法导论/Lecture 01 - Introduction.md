@@ -41,7 +41,7 @@ Asymptotic Notations渐进符号：
 
 # 3️⃣数据结构
 本讲介绍了python中的Static array：
-- `StaticArray(n)`: 分配一个全是零的大小为n的静态数组，时间复杂度 Θ（n）；更多时间复杂度分析见后续 Lecture，与 [[学习/课程/MIT6.041-概率系统/Lecture 05 - 随机变量|概率论均值/方差]] 形成"复杂度 vs 期望"的两种思维
+- `StaticArray(n)`: 分配一个全是零的大小为n的静态数组，时间复杂度 Θ（n）；更多时间复杂度分析见后续 Lecture，与 [[MIT6.041-概率系统/Lecture 05 - 随机变量|概率论均值/方差]] 形成"复杂度 vs 期望"的两种思维
 - `StaticArray.get_at(i)`：返回在索引i处的内容，时间复杂度Θ（1）
 - `StaticArray.set_at(i,x)`：将x写入索引i处，时间复杂度Θ（1）
 
@@ -50,6 +50,6 @@ Asymptotic Notations渐进符号：
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.006-算法导论/README]]
-- [[学习/课程/MIT6.006-算法导论/Lecture2 ：Data Structure]]
-- [[学习/编程语言/Python/数据结构/基础数据结构]]
+- [[README]]
+- [[Lecture2 ：Data Structure]]
+- [[编程语言/Python/数据结构/基础数据结构]]

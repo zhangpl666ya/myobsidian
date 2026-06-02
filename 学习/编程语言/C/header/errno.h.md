@@ -94,6 +94,6 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C/header/stdlib.h]]
-- [[学习/编程语言/C/header/stdio.h]]
-- [[学习/编程语言/Python/错误处理]] — 跨语言对比
+- [[stdlib.h]]
+- [[stdio.h]]
+- [[Python/错误处理]] — 跨语言对比

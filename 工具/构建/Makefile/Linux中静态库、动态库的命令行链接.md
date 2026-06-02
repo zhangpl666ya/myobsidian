@@ -162,6 +162,6 @@ clean:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/编译/链接]]
-- [[学习/编程语言/C++/编译/静态与动态链接]]
-- [[工具/构建/Makefile/Makefile]]
+- [[链接]]
+- [[静态与动态链接]]
+- [[Makefile]]

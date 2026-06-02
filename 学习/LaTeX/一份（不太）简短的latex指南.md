@@ -22,7 +22,7 @@ B站大部分视频太拉了，油管上有不错的教程（Trefor），但我�
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/LaTeX/Latex配置知识]]
-- [[学习/LaTeX/Latex数学标记]]
-- [[学习/LaTeX/图片]]
-- [[学习/LaTeX/字体]]
+- [[Latex配置知识]]
+- [[Latex数学标记]]
+- [[图片]]
+- [[字体]]

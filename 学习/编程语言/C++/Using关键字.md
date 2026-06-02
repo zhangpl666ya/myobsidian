@@ -200,4 +200,4 @@ cout << d.a << ", " << d.b << endl; // 输出10, 20
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Template]]
+- [[STL/Template]]

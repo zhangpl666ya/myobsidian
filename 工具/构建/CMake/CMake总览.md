@@ -50,6 +50,6 @@ CMake是注重于抽象的目标（target），这个target的属性包括：
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/构建/CMake/CMake命令]]
-- [[工具/构建/Makefile/Makefile]]
-- [[学习/编程语言/C++/编译/目录]]
+- [[CMake命令]]
+- [[Makefile/Makefile]]
+- [[目录]]

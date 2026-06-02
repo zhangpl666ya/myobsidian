@@ -177,5 +177,5 @@ $$\text{独立} \Rightarrow \text{不相关} \quad \text{（反向不一定成�
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.041-概率系统/Lecture 10 - 连续贝叶斯法则与导出分布]]
-- [[学习/课程/MIT6.041-概率系统/课程导学]]
+- [[Lecture 10 - 连续贝叶斯法则与导出分布]]
+- [[课程导学]]

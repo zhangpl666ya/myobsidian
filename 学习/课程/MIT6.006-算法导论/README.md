@@ -27,6 +27,6 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[Inbox/未命名]] — 6.006 在 AI 路线中是核心枢纽
-- [[学习/课程/MIT6.006-算法导论/Lecture1： Introduction]]
-- [[学习/课程/MIT6.006-算法导论/Lecture2 ：Data Structure]]
+- [[未命名]] — 6.006 在 AI 路线中是核心枢纽
+- [[Lecture1： Introduction]]
+- [[Lecture2 ：Data Structure]]

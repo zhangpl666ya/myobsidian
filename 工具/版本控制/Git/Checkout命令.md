@@ -111,5 +111,5 @@ git checkout a1b2c3d
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/版本控制/Git/Git概述]]
-- [[工具/版本控制/Git/git常用命令]]
+- [[Git概述]]
+- [[git常用命令]]

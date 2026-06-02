@@ -7,7 +7,7 @@ tags:
 ---
 生成元包括*generator expression*s 和 *generator functions*
 （翻译一下，生成器表达式和生成函数？）
-关于 generator function：[[Yield关键字]]；迭代协议的完整工作原理见 [[学习/编程语言/Python/迭代协议（迭代器）]]
+关于 generator function：[[Yield关键字]]；迭代协议的完整工作原理见 [[迭代协议（迭代器）]]
 # *Generator Expressions*
 list comprehensions 和generator expressions 的区别有时候时很难把握的，试着列出一些区别
 ## 1️⃣List comprehensions 方括号，generator expressions 圆括号
@@ -83,5 +83,5 @@ for n in G:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/自定义函数/Yield关键字]]
-- [[学习/编程语言/Python/迭代协议（迭代器）]]
+- [[自定义函数/Yield关键字]]
+- [[迭代协议（迭代器）]]

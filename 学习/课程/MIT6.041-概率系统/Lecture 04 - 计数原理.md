@@ -187,6 +187,6 @@ $$P(\text{每人一张 A}) = \frac{4! \cdot \dfrac{48!}{12!^4}}{\dfrac{52!}{13!^
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.041-概率系统/Lecture 03 - 独立性]]
-- [[学习/课程/MIT6.041-概率系统/Lecture 05 - 随机变量]]
-- [[学习/课程/MIT6.041-概率系统/课程导学]]
+- [[Lecture 03 - 独立性]]
+- [[Lecture 05 - 随机变量]]
+- [[课程导学]]

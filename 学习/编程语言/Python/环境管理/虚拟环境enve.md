@@ -121,4 +121,4 @@ deactivate
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/Python/环境管理/conda]]
+- [[conda]]

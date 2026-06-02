@@ -59,7 +59,7 @@ git版本控制的本质就是有一个HEAD指针和多个分支指针指来指�
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/版本控制/Git/git常用命令]]
-- [[工具/版本控制/Git/Checkout命令]]
-- [[工具/版本控制/Git/Windows上安装git]]
-- [[工具/版本控制/Git/confusion]]
+- [[git常用命令]]
+- [[Checkout命令]]
+- [[Windows上安装git]]
+- [[confusion]]

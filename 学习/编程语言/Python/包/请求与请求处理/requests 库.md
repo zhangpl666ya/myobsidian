@@ -68,4 +68,4 @@ fake_headers = {
 
 - [[requests 实战]]
 - [[网络请求 错误处理]]
-- [[项目/AI agent skills/repo info 获取]]
+- [[repo info 获取]]

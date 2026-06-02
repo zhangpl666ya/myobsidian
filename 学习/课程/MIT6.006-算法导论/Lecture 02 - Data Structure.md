@@ -82,7 +82,7 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/课程/MIT6.006-算法导论/Lecture3：Sorting]]
-- [[学习/编程语言/C++/STL/Container/Vector]]
-- [[学习/编程语言/C++/STL/Container/Map]]
-- [[学习/编程语言/Python/数据结构/基础数据结构]]
+- [[Lecture3：Sorting]]
+- [[编程语言/C++/STL/Container/Vector]]
+- [[编程语言/C++/STL/Container/Map]]
+- [[编程语言/Python/数据结构/基础数据结构]]

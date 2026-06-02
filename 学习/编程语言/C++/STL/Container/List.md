@@ -94,6 +94,6 @@ myList.sort();                             // ✅ 正确做法
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Container/Vector]]
-- [[学习/编程语言/C++/STL/Container/Deque]]
-- [[学习/编程语言/C++/STL/Iterator/Iterator分类]] — list 配双向迭代器
+- [[Vector]]
+- [[Deque]]
+- [[Iterator/Iterator分类]] — list 配双向迭代器

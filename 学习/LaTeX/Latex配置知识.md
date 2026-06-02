@@ -19,4 +19,4 @@ TeXPage:`https://www.texpage.com/
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/LaTeX/一份（不太）简短的latex指南]]
+- [[一份（不太）简短的latex指南]]

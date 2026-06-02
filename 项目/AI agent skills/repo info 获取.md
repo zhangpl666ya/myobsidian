@@ -27,5 +27,5 @@ requests.post("url",data = data)
 ## 相关笔记
 
 - [[requests 库]]
-- [[工具/版本控制/Git/Github]]
-- [[项目/AI agent skills/调用本地大模型读取网页内容（基础版）]]
+- [[Github]]
+- [[调用本地大模型读取网页内容（基础版）]]

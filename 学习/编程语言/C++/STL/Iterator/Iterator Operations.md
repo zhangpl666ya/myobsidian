@@ -339,6 +339,6 @@ void algo(It first, It last);
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[学习/编程语言/C++/STL/Iterator/Iterator是什么]]
-- [[学习/编程语言/C++/STL/Iterator/Iterator分类]]
-- [[学习/编程语言/C++/STL/Iterator/迭代器统一接口函数]]
+- [[Iterator是什么]]
+- [[Iterator分类]]
+- [[迭代器统一接口函数]]

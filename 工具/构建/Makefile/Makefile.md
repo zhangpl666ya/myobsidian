@@ -108,6 +108,6 @@ $(BUILD_DIR)/%.o : $(SRC_DIR)/%.cpp
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/构建/CMake/CMake总览]] — CMake 是 Makefile 的生成器
-- [[工具/构建/Makefile/一个示例]]
-- [[学习/编程语言/C++/编译/目录]]
+- [[CMake/CMake总览]] — CMake 是 Makefile 的生成器
+- [[一个示例]]
+- [[目录]]
