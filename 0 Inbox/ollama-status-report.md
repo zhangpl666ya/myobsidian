@@ -1,3 +1,9 @@
+---
+tags:
+  - "项目/AIagent"
+  - "工具/本地模型"
+  - "状态/快照"
+---
 # Ollama 本地部署状态报告
 
 **检查时间:** 2026-03-17 22:15  
@@ -84,3 +90,9 @@ ollama pull llama3.2:1b   # 轻量级
 3. 设置网络异常时的自动 fallback
 
 要我继续哪一步？
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[5 项目/AI agent skills开发日记/api key]]
+- [[5 项目/AI agent skills开发日记/调用本地大模型读取网页内容（基础版）]]

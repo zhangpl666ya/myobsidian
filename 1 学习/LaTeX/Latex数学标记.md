@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/LaTeX"
+  - "学习/数学排版"
+  - "笔记/速查"
+---
 我在obsidian里面下载了一个Latex插件
 用两个$产生Latex环境
 # 希腊字母表
@@ -211,3 +217,10 @@ e & f & \cdots & g
 \ \ 
 \bf A^{\mathrm{T}}
 $$
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/LaTeX/字体]] — 数学符号用到的字体命令
+- [[1 学习/LaTeX/图片]]
+- [[1 学习/LaTeX/一份（不太）简短的latex指南]]

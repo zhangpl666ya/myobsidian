@@ -1,4 +1,9 @@
-
+---
+tags:
+  - "学习/编程/C"
+  - "工具/时间"
+  - "笔记/速查"
+---
 # 数据类型k
 1. time_t
 	* 本质：通常是long long 类型数据
@@ -145,3 +150,8 @@ time_t start = time(NULL);
 time_t end =time(NULL);
 double diff = difftime(end,start);
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C/header/stdio.h]]

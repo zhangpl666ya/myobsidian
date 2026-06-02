@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/Git"
+  - "工具/git checkout"
+  - "笔记/速查"
+---
 `git checkout` 是 Git 中一个多功能的命令，主要用于切换分支、恢复文件、创建分支等操作，具体功能如下：
 
 ### 1. **切换分支**
@@ -101,3 +107,9 @@ git checkout a1b2c3d
     - 创建并切换分支：`git switch -c <新分支名>`
     - 恢复文件：`git restore <文件名>`
 - 但 `git checkout` 仍被广泛使用，尤其在需要兼容旧版本 Git 的场景中。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Git/Git概述]]
+- [[2 工具/Git/git常用命令]]

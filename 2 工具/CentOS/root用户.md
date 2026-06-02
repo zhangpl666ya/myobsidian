@@ -1,3 +1,10 @@
+---
+tags:
+  - "工具/CentOS"
+  - "工具/权限"
+  - "概念/用户"
+  - "笔记/速查"
+---
 # 什么是root用户？——超级管理员
 
 无论是windows、macOS、还是linux均采用多用户的管理模式进行权限管理
@@ -32,3 +39,8 @@ su（switch user）：
 2. 在文件的最后加： `【账户名】 ALL=(ALL)   NOPASSWD:ALL
 3. 最后`:wq保存
 4. 切回普通用户，执行的命令均以root运行
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/CentOS/用户、用户组与权限信息]]

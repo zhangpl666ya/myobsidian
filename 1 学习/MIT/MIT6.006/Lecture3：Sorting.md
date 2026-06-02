@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/MIT6.006"
+  - "概念/排序"
+  - "概念/二分查找"
+  - "笔记/课程笔记"
+---
 # 1️⃣Sorted Array
 sorted array 有很多优势，比如：
 - 通过二分查找[^1]时间复杂度达到O（logn）
@@ -121,3 +128,10 @@ def merge(A,left,right):
 1. 若$O(n^\left(log_b a\right)) < O(f(n))$：$T(n) = O(f(n))$
 2. 若$O(n^\left(log_b a\right)) = O(f(n))$：$T(n) = O(f(n)*logn)$
 3. 若$O(n^\left(log_b a\right)) > O(f(n))$：$T(n) = O(n^\left(log_b a\right)*logn)$
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.006/Lecture4：Hashing]]
+- [[1 学习/MIT/MIT6.006/Lecture5：Linear Sorting]]
+- [[1 学习/编程/C++/STL/Container/Vector]] — 排序的典型容器

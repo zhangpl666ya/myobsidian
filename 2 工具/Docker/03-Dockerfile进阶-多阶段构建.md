@@ -1,3 +1,10 @@
+---
+tags:
+  - "工具/Docker"
+  - "工具/Dockerfile"
+  - "概念/多阶段"
+  - "笔记/进阶"
+---
 # Dockerfile 进阶：多阶段构建
 
 ## 什么是多阶段构建？
@@ -219,3 +226,9 @@ __pycache__
 ---
 
 _最后更新：2026-05-25_
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Docker/02-Dockerfile基础]]
+- [[1 学习/编程/C++/编译/静态与动态链接]] — 跨语言类比：只打包运行时所需

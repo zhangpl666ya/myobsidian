@@ -1,4 +1,9 @@
-
+---
+tags:
+  - "学习/编程/C"
+  - "工具/标准IO"
+  - "笔记/速查"
+---
 # stdio.h：文件操作
 ## 特殊文件
 三个默认打开的文件流
@@ -165,3 +170,10 @@ printf("姓名：%s，年龄：%d，成绩：%.1f\n", name, age, score);
 * `int fflush(FILE* stream)`
 * stream应是输出流
 * 将缓冲区已有的数据强制输出，并清空缓冲区
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/Stream]] — C++ 用 iostream 替代
+- [[1 学习/编程/Python/文件管理/一、基础方法]]
+- [[1 学习/编程/C/header/stdlib.h]]

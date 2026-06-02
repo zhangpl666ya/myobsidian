@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/容器"
+  - "概念/队列"
+  - "笔记/速查"
+---
 >[!Reminder]
 >queue不暴露迭代器！！！
 
@@ -183,3 +190,8 @@ if (!q.empty()) {
 
 > `std::queue` 是一个 **先进先出（FIFO）** 的容器适配器，  
 > 常用于 **BFS、任务调度、排队模拟** 等场景。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/Deque]]

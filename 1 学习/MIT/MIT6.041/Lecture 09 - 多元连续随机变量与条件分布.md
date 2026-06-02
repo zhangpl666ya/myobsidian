@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/MIT6.041"
+  - "学习/概率论"
+  - "笔记/课程笔记"
+---
 # Lecture 09: 多元连续随机变量、条件分布、独立性与 Buffon 针
 
 > **课程：** MIT 6.041 - 概率系统分析与应用概率
@@ -155,3 +161,10 @@ $$f_{X,Y \mid Z}(x,y \mid z) = \frac{f_{X,Y,Z}(x,y,z)}{f_Z(z)}$$
 ---
 
 *本笔记基于 MIT 6.041 Fall 2010 Lecture 9 内容整理*
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.041/Lecture 08 - 连续随机变量与PDF]]
+- [[1 学习/MIT/MIT6.041/Lecture 10 - 连续贝叶斯法则与导出分布]]
+- [[1 学习/MIT/MIT6.041/课程导学]]

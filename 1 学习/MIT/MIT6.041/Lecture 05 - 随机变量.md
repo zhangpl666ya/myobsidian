@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/MIT6.041"
+  - "学习/概率论"
+  - "笔记/课程笔记"
+---
 #  Lecture 05: 随机变量
 
 > **课程：** MIT 6.041 - 概率系统分析与应用概率  
@@ -173,3 +179,10 @@ $$\sigma_X = \sqrt{\text{var}(X)}$$
 ---
 
 *本笔记基于 MIT 6.041 Fall 2010 Lecture 5 内容整理*
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.041/Lecture 04 - 计数原理]]
+- [[1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布]]
+- [[1 学习/MIT/MIT6.041/课程导学]]

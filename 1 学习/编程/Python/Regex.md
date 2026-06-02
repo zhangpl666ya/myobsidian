@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/编程/Python"
+  - "概念/正则"
+  - "笔记/速查"
+---
 3️⃣正则表达式简称Regex，定义在模块`re`中，用`import re`导入
 
 # 1️⃣基础结构
@@ -161,3 +167,8 @@ Email = re.compile(r'''
 	(\.[a-zA-Z]{2,5})
 	''',re.VERBOSE)
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/包/BeautifulSoup]] — 经常配合用

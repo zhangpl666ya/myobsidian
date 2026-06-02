@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/std::variant"
+  - "概念/类型安全联合"
+  - "笔记/速查"
+---
 # std::variant：类型安全的 “多选一” 联合体
 
 ### 核心概念
@@ -79,3 +86,9 @@ int main() {
 
 1. **编译期生成分发表**：编译器会根据 variant 的类型列表，为访问器生成对应每个类型的调用分支；
 2. **运行时直接跳转**：运行时根据 variant 的 `index()`（当前类型索引），直接跳转到对应的分支执行，和手动写 `switch(index)` 效率一致；
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/单变量存储多类型数据/Any]]
+- [[1 学习/编程/C++/STL/Container/单变量存储多类型数据/Optional]]

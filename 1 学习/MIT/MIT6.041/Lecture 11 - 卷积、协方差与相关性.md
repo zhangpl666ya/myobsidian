@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/MIT6.041"
+  - "学习/概率论"
+  - "笔记/课程笔记"
+---
 # Lecture 11: 多元函数导出分布、卷积、协方差与相关性
 
 > **课程：** MIT 6.041 - 概率系统分析与应用概率
@@ -167,3 +173,9 @@ $$\text{独立} \Rightarrow \text{不相关} \quad \text{（反向不一定成�
 ---
 
 *本笔记基于 MIT 6.041 Fall 2010 Lecture 11 内容整理*
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.041/Lecture 10 - 连续贝叶斯法则与导出分布]]
+- [[1 学习/MIT/MIT6.041/课程导学]]

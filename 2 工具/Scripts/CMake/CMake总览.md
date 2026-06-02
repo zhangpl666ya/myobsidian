@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/CMake"
+  - "工具/构建"
+  - "笔记/概念入门"
+---
 # 思想转变！！！
 >CMake是生成Makefile的工具
 
@@ -40,3 +46,10 @@ CMake是注重于抽象的目标（target），这个target的属性包括：
 但凡需要通过确定属性生成的，在项目中都称为target，像我们自己写的可执行文件、动态库静态库。
 
 而target和target之间还会有“依赖关系”，这很好理解，可执行文件会依赖库
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Scripts/CMake/CMake命令]]
+- [[2 工具/Scripts/Makefile/Makefile]]
+- [[1 学习/编程/C++/编译/目录]]

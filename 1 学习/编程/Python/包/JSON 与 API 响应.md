@@ -1,4 +1,9 @@
 ---
+tags:
+  - "学习/编程/Python"
+  - "工具/JSON"
+  - "工具/API"
+  - "笔记/速查"
 tags: [Python, 网络请求, JSON, AI API]
 ---
 
@@ -51,3 +56,9 @@ ai_text = response.json()["choices"][0]["message"]["content"]
 
 - 配合 [[requests 实战]] 的 POST 模板
 - 错误处理见 [[网络请求 错误处理]]
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/快速看懂json结构]]
+- [[1 学习/编程/Python/包/requests 库]]

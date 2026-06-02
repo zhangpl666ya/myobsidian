@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/LaTeX"
+  - "笔记/书单"
+  - "状态/进行中"
+---
 自己看看：
 [一份（不太）简短的latex指南](https://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)
 
@@ -12,3 +18,11 @@ B站大部分视频太拉了，油管上有不错的教程（Trefor），但我�
 但为了拿下Latex，还是要拼一拼
 
 当然还是有不错的视频教程,UP[无限十三年](https://space.bilibili.com/698499843?spm_id_from=333.788.upinfo.detail.click)的推荐一下，他是按上面贴出来的那本指南讲的，有毅力的朋友还是优先推荐啃书
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/LaTeX/Latex配置知识]]
+- [[1 学习/LaTeX/Latex数学标记]]
+- [[1 学习/LaTeX/图片]]
+- [[1 学习/LaTeX/字体]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/MIT6.041"
+  - "学习/概率论"
+  - "笔记/课程笔记"
+---
 # Lecture 07: 多元随机变量、期望深化与帽子问题
 
 > **课程：** MIT 6.041 - 概率系统分析与应用概率
@@ -287,3 +293,10 @@ $$E[X] = \sum_{i=1}^{n} E[X_i] = \sum_{i=1}^{n} P(X_i = 1)$$
 ---
 
 *本笔记基于 MIT 6.041 Fall 2010 Lecture 7 内容整理*
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布]]
+- [[1 学习/MIT/MIT6.041/Lecture 08 - 连续随机变量与PDF]]
+- [[1 学习/MIT/MIT6.041/课程导学]]

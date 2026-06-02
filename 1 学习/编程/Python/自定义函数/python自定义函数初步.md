@@ -1,4 +1,9 @@
-
+---
+tags:
+  - "学习/编程/Python"
+  - "概念/函数"
+  - "笔记/概念入门"
+---
 # 自定义函数语法
 >C/C++函数基本语法：`返回值类型 函数签名（参数）{内容}`
 
@@ -100,3 +105,9 @@ person(**info)  # 等价于person(name="张三", age=20)
 
 ---
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/导言]]
+- [[1 学习/编程/Python/自定义函数/Lambda]]
+- [[1 学习/编程/Python/自定义函数/Yield关键字]]

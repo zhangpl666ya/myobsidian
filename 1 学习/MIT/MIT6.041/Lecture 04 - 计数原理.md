@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/MIT6.041"
+  - "学习/概率论"
+  - "笔记/课程笔记"
+---
 #  Lecture 04: 计数原理
 
 > **课程：** MIT 6.041 - 概率系统分析与应用概率  
@@ -177,3 +183,10 @@ $$P(\text{每人一张 A}) = \frac{4! \cdot \dfrac{48!}{12!^4}}{\dfrac{52!}{13!^
 ---
 
 *本笔记基于 MIT 6.041 Fall 2010 Lecture 4 内容整理*
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.041/Lecture 03 - 独立性]]
+- [[1 学习/MIT/MIT6.041/Lecture 05 - 随机变量]]
+- [[1 学习/MIT/MIT6.041/课程导学]]

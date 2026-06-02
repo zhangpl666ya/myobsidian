@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/Python"
+  - "工具/文件IO"
+  - "概念/类"
+  - "笔记/速查"
+---
 知识补充：
 - 传入时写：`s:str`是说期望s是个str，并没有强制作用
 - `isinstance(object,classinfo)`：python内置函数，用于判断类型
@@ -45,3 +52,9 @@ class BufferedWriter:
 		self.close()
 		
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/文件管理/二、上下文管理器]]
+- [[1 学习/编程/Python/上下文管理协议（with关键字]]

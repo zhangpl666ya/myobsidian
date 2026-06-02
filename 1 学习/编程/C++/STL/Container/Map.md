@@ -1,3 +1,11 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/容器"
+  - "概念/红黑树"
+  - "概念/键值对"
+  - "笔记/速查"
+---
 定义在map头文件中
 # 是什么?
 道理和[[Set]]有相似之处，
@@ -172,3 +180,12 @@ for (const auto& pair : m) {
 **使用场景**：
 - 需有序存储、范围查询（如 `lower_bound`）→ 用 `std::map`；
 - 追求极致查询效率、无需排序 → 用 `std::unordered_map`。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/Set]]
+- [[1 学习/编程/C++/重载运算符]] — 自定义 key 需要重载 <
+- [[1 学习/编程/C++/Lambda]]
+- [[1 学习/编程/C++/STL/Template]]
+- [[1 学习/MIT/MIT6.006/Lecture4：Hashing]] — 与哈希表对比

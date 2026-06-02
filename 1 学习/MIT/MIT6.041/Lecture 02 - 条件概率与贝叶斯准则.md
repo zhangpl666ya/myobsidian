@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/MIT6.041"
+  - "学习/概率论"
+  - "笔记/课程笔记"
+---
 #  Lecture 02: 条件概率与贝叶斯准则
 
 > **课程：** MIT 6.041 - 概率系统分析与应用概率  
@@ -144,3 +150,11 @@ $$P(A \mid B) = \frac{P(A)P(B \mid A)}{P(B)} = \frac{0.0495}{0.1445} \approx 0.3
 ---
 
 *本笔记基于 MIT 6.041 Fall 2010 Lecture 2 内容整理*
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.041/Lecture 01 - 概率模型与公理]]
+- [[1 学习/MIT/MIT6.041/Lecture 03 - 独立性]]
+- [[1 学习/MIT/MIT6.041/课程导学]]
+- [[0 Inbox/未命名]] — 概率是 AI 路线基石

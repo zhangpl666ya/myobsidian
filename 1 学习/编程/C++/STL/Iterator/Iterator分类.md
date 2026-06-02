@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/迭代器"
+  - "概念/迭代器分类"
+  - "笔记/速查"
+---
 请先看这篇：[[Iterator是什么]]
 
 ### 1. **输入迭代器 (Input Iterator)**
@@ -243,3 +250,12 @@ int main() {
 | **无序关联容器** | `unordered_set / map` | **前向 (Forward)**         | 哈希表实现，通常只支持单向向前                |
 | **容器适配器**  | `stack / queue`       | **无迭代器**                 | 封闭式结构，不支持迭代器访问                 |
 [[Iterator Operations]]
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Iterator/Iterator是什么]]
+- [[1 学习/编程/C++/STL/Iterator/Iterator Operations]]
+- [[1 学习/编程/C++/STL/Container/Vector]]
+- [[1 学习/编程/C++/STL/Container/List]]
+- [[1 学习/编程/C++/STL/Container/Map]]

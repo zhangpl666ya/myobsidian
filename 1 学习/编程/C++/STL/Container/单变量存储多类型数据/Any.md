@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/std::any"
+  - "概念/类型擦除"
+  - "笔记/速查"
+---
 > [!remind]
 > 相信我，你不会使用它的
 
@@ -71,3 +78,9 @@ int main() {
     return 0;
 }
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/单变量存储多类型数据/Variant]]
+- [[1 学习/编程/C++/STL/Container/单变量存储多类型数据/Optional]]

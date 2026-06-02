@@ -1,9 +1,15 @@
-
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/容器"
+  - "概念/动态数组"
+  - "笔记/速查"
+---
 ### 1. 本质与定位
 
 - 底层是**动态分配的连续内存数组**，逻辑上元素连续存储（支持随机访问）。
 - 属于 “序列容器”（sequence container），元素按插入顺序排列，无自动排序功能。
-- 与静态数组（`int arr[N]`）对比：
+- 与静态数组（`int arr[N]`）对比（随机访问特性见 [[1 学习/编程/C++/STL/Iterator/Iterator分类]]）：
     - 优势：动态扩容、支持自动管理内存、提供丰富成员函数。
     - 劣势：扩容时可能拷贝元素（有性能开销）、中间插入 / 删除效率低。
 ```cpp
@@ -387,3 +393,13 @@ vector<vector<int>> mat(m, vector<int>(n, 0));
 |          |      |      |           |       |                  |
 
 **结论**：大部分场景下 vector 是最优选择，仅当需要频繁中间插入 / 删除时考虑 list，头部操作频繁时考虑 deque。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/List]]
+- [[1 学习/编程/C++/STL/Container/Deque]]
+- [[1 学习/编程/C++/STL/Iterator/Iterator分类]] — vector 配随机访问迭代器
+- [[1 学习/编程/C++/STL/什么是STL]]
+- [[1 学习/编程/C++/范围for循环]]
+- [[1 学习/编程/Python/数据结构/List 列表进阶]]

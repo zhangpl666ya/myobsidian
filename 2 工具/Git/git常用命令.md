@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/Git"
+  - "工具/git命令"
+  - "笔记/速查"
+---
 git很多命令和Linux相同
 # 基础版本控制
 
@@ -173,5 +179,9 @@ clone干了三件事：
 * 初始化本地库
 * 创建别名（默认为origin）
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
 
-
+- [[2 工具/Git/Git概述]]
+- [[2 工具/Git/Checkout命令]]
+- [[2 工具/Git/confusion]]

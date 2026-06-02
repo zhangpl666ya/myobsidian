@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/CentOS"
+  - "工具/包管理"
+  - "笔记/速查"
+---
 # Linux系统的应用商店
 
 操作系统安装软件有许多方式
@@ -52,3 +58,9 @@ Linux系统很多内置和第三方软件都支持使用systemctl命令控制启
 * 参数二：要链接去的目的地
 示例：`ln -s /etc/yum.conf ~/yum`
 将`/etc/yum/conf`的文件链接到`~/yum`中
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/CentOS/bash]]
+- [[2 工具/CentOS/Linux的文件]]

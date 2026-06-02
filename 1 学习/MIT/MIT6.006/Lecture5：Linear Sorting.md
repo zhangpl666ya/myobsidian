@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/MIT6.006"
+  - "概念/线性排序"
+  - "概念/基数排序"
+  - "笔记/课程笔记"
+---
 Review：
 Hash Table：
 - `build(x)` in $O(n_{(e)})$
@@ -99,3 +106,9 @@ def radix_sort(A):
 	for i in range(n):
 		A[i] = D[i].item
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.006/Lecture4：Hashing]]
+- [[1 学习/MIT/MIT6.006/Lecture3：Sorting]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/编程/C"
+  - "工具/字符串"
+  - "笔记/速查"
+---
 # 字符串操作
 `char* strcpy( char* dest, const char* src )`
 `errno_t strcpy_s( char* restrict dest, rsize_t destsz, const char* restrict src )`
@@ -171,3 +177,8 @@
 	- src：指向要从中复制的对象指针
 	- count：要复制到字节数
 - 返回值：dest副本
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/String]] — C++ 用 std::string

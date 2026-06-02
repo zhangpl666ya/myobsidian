@@ -1,10 +1,17 @@
+---
+tags:
+  - "学习/MIT6.006"
+  - "概念/算法"
+  - "概念/复杂度"
+  - "笔记/课程笔记"
+---
 # 1️⃣算法基本常识
 
 ## 什么是算法？
 算法是给一个输入，能返回单个我们想要的输出的一个程序，对于同一个问题，不同的输入总是能给出一个但是是正确的输出
 
 ## 算法正确性证明
-基本思路便是***数学归纳法***
+基本思路便是***数学归纳法***（与 6.041 的概率公理是两条平行的数学基础）
 
 > For small inputs, can use case analysis
 > For arbitrarily large inputs, algorithm must be recursive or loop in some way
@@ -40,4 +47,9 @@ Asymptotic Notations渐进符号：
 
 后续会有更多数据结构用来更高效的解决问题
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
 
+- [[1 学习/MIT/MIT6.006/README]]
+- [[1 学习/MIT/MIT6.006/Lecture2 ：Data Structure]]
+- [[1 学习/编程/Python/数据结构/基础数据结构]]

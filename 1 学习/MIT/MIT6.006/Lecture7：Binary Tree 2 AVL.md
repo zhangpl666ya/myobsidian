@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/MIT6.006"
+  - "概念/AVL"
+  - "概念/旋转"
+  - "笔记/课程笔记"
+---
 本节目标是实现让树的高度$h = O(\log n)$
 
 # Rotations旋转
@@ -30,3 +37,11 @@
 ---
 # 计算高度
 为了计算根节点的倾斜度，我们需要用右节点高度减去左节点高度
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.006/Lecture6：Binary Tree 1]]
+- [[Excalidraw/tree_rotate]]
+- [[1 学习/编程/C++/STL/Container/Set]]
+- [[1 学习/编程/C++/STL/Container/Map]]

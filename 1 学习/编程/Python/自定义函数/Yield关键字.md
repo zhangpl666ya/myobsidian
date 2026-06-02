@@ -1,4 +1,10 @@
-
+---
+tags:
+  - "学习/编程/Python"
+  - "概念/generator"
+  - "概念/yield"
+  - "笔记/速查"
+---
 ## yield 核心含义
 
 `yield` 可以理解为函数的 “暂停键 + 返回键”：
@@ -119,3 +125,9 @@ print(next(id_gen)) # 101
 ```
 
 >还有很多高级用法，但对于现在的我来说太困难了，以后再战
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/数据结构/Generator Expressions]]
+- [[1 学习/编程/Python/迭代协议（迭代器）]]

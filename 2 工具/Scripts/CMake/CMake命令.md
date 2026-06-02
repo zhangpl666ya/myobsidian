@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/CMake"
+  - "工具/构建"
+  - "笔记/速查"
+---
 # 1️⃣首先抄上去的话
 
 在你的CMakelists.txt中，有几句话先写上：
@@ -195,3 +201,8 @@ CMake实际做的是：
 
 📌 和你自己写的 target **用法完全一致**
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Scripts/CMake/CMake总览]]
+- [[2 工具/Scripts/Makefile/Makefile]]

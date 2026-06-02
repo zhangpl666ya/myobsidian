@@ -1,4 +1,10 @@
-
+---
+tags:
+  - "工具/CentOS"
+  - "工具/bash"
+  - "工具/Shell"
+  - "笔记/速查"
+---
 # bash
 
 ## 命令基础通用格式
@@ -258,3 +264,10 @@ ps -aux #配合管道符以及grep筛选需要查看的程序，查看进程号
 `kill`+ 进程号可以指定结束进程
 
 `gb+进程`将进程放入后台，`fg`将进程放到前台
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/CentOS/CentOS软件管理]]
+- [[2 工具/CentOS/Linux的文件]]
+- [[2 工具/CentOS/各类小技巧快捷键]]

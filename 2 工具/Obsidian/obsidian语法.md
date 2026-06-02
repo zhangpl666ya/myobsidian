@@ -1,4 +1,9 @@
-
+---
+tags:
+  - "工具/Obsidian"
+  - "工具/语法"
+  - "笔记/速查"
+---
 [[obsidian学习笔记|回到目录]]
 * 标题  # 号加空格 
  * 文字样式
@@ -60,4 +65,8 @@
 
 [^2]: 这也是脚注
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
 
+- [[2 工具/Obsidian/双链]]
+- [[2 工具/Obsidian/HTML文本样式标签表]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/编程/C"
+  - "概念/可变参数"
+  - "笔记/速查"
+---
 # stdarg.h内容
 `stdarg.h` 是 C 语言标准库中用于处理**可变参数函数**的头文件，核心作用是让函数能够接收数量和类型不固定的参数（如 `printf`、`scanf` 这类函数）。它通过一组宏来实现对可变参数的遍历和访问，底层依赖编译器的参数传递规则（通常是栈布局）。
 
@@ -167,3 +173,9 @@ int main() {
     return 0;
 }
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C/header/stdio.h]] — printf 用到 va_list
+- [[1 学习/编程/C++/Lambda]] — C++ 用 variadic template

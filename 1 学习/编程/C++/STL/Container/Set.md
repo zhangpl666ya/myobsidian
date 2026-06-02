@@ -1,3 +1,11 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/容器"
+  - "概念/集合"
+  - "概念/红黑树"
+  - "笔记/速查"
+---
 # 是什么
 包含在头文件set中
 set类型本质是容器，由红黑树实现的自动排序容器，可指定类型和排序依据
@@ -70,3 +78,7 @@ auto lb = s.lower_bound(3); //指向3
 auto ub = s.upper_bound(3); //指向4
 ```
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/Map]]

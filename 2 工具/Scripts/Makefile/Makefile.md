@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/Makefile"
+  - "工具/构建"
+  - "笔记/概念入门"
+---
 Makefile是一个脚本工具，makefile makes your life easier
 # 基本格式
 ## 目标是文件名
@@ -98,3 +104,10 @@ $(BUILD_DIR)/%.o : $(SRC_DIR)/%.cpp
 	@mkdir -p $(BUILD_DIR)
 	$(CXX) $(CXXFLAGS) -c $< -o %@
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Scripts/CMake/CMake总览]] — CMake 是 Makefile 的生成器
+- [[2 工具/Scripts/Makefile/一个示例]]
+- [[1 学习/编程/C++/编译/目录]]

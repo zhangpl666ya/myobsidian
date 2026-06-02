@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/iostream"
+  - "笔记/速查"
+---
 # .iostream
 ## 1 cout：标准输出流
 - 本质：ostream类的全局对象，关联操作系统的stdout；
@@ -342,3 +348,9 @@ int main() {
 4. **流状态异常后无法输入**：原因是 `failbit/eofbit` 未重置 → 解决方案：先 `cin.clear()`，再清空缓冲区；
 5. **字符串流内存泄漏**：无需担心，`ostringstream/istringstream` 析构时自动释放内存；
 6. **cout 输出顺序异常**：缓冲区未刷新 → 解决方案：关键位置加 `flush()` 或 `endl`。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C/header/stdio.h]] — C 用 stdin/stdout/stderr
+- [[1 学习/编程/Python/文件管理/一、基础方法]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/容器"
+  - "概念/字符串"
+  - "笔记/速查"
+---
 超标怪
 
 # string怎么理解
@@ -105,3 +112,9 @@ C 语言中你手动 `malloc` 时会预留足够空间避免频繁 `realloc`�
 |`s.c_str()`|string 转 C 字符串（`const char*`）|O (1)（返回指针）|指针有效期：直到 `s` 被修改（扩容 / 删除等）或销毁|
 
 > 性能关键点：`to_string` 和 `sprintf` 性能差不多，但 `to_string` 更简洁；`stoi` 比 `atoi` 安全，但性能略低（异常检查开销），日常场景可忽略。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C/header/string.h]] — C 的字符串处理
+- [[1 学习/编程/C++/STL/Container/Vector]] — 内部实现类比 vector

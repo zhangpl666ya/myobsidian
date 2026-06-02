@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C"
+  - "工具/错误处理"
+  - "概念/errno"
+  - "笔记/速查"
+---
 **errno 变量**
 
  - 这是一个全局整数变量，用于存储最近一次发生的错误代码
@@ -83,3 +90,10 @@
 1. 这些编号的**具体数字不重要**（比如 Linux 里 `ENOENT` 是 2，Windows 里可能不同），编程时只用宏名（比如 `if (errno == ENOENT)`）。
 2. 只有函数**明确失败**时，`errno` 才有意义（成功时 `errno` 可能不变，也可能乱设，别信）。
 3. 可以用 `strerror(errno)` 或者 `perror` 把编号转成人类能看懂的文字（比如把 `ENOENT` 转成 “没有那个文件或目录”）
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C/header/stdlib.h]]
+- [[1 学习/编程/C/header/stdio.h]]
+- [[1 学习/编程/Python/错误处理]] — 跨语言对比

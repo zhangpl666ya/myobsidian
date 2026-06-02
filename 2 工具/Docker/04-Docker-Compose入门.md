@@ -1,3 +1,10 @@
+---
+tags:
+  - "工具/Docker"
+  - "工具/Docker-Compose"
+  - "概念/多容器"
+  - "笔记/概念入门"
+---
 # Docker Compose 入门
 
 ## 什么是 Docker Compose？
@@ -421,3 +428,8 @@ Kubernetes    → 大规模生产环境，集群管理
 ---
 
 _最后更新：2026-05-25_
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Docker/00-Docker学习笔记导航]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/MIT6.041"
+  - "学习/概率论"
+  - "笔记/课程笔记"
+---
 # Lecture 08: 连续随机变量与 PDF
 
 > **课程：** MIT 6.041 - 概率系统分析与应用概率
@@ -142,3 +148,10 @@ $$\text{var}(X) = E[X^2] - (E[X])^2 = \int (x - E[X])^2 f_X(x) \, dx$$
 ---
 
 *本笔记基于 MIT 6.041 Fall 2010 Lecture 8 内容整理*
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.041/Lecture 07 - 多元随机变量与帽子问题]]
+- [[1 学习/MIT/MIT6.041/Lecture 09 - 多元连续随机变量与条件分布]]
+- [[1 学习/MIT/MIT6.041/课程导学]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/std::optional"
+  - "概念/可选值"
+  - "笔记/速查"
+---
 # std::optional：“可有可无” 的单类型值
 #### 核心概念
 
@@ -58,3 +65,10 @@ int main() {
     return 0;
 }
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/单变量存储多类型数据/Variant]]
+- [[1 学习/编程/C++/STL/Container/单变量存储多类型数据/Any]]
+- [[1 学习/编程/Python/错误处理]] — Python 的 None 类似

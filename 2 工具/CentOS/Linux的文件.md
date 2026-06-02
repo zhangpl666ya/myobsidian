@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/CentOS"
+  - "工具/文件系统"
+  - "笔记/速查"
+---
 Linux系统只用一个根目录 叫 /
 
 
@@ -11,3 +17,9 @@ Linux系统只用一个根目录 叫 /
 
 # 文件权限
 ![[用户、用户组与权限信息#认知权限信息]]
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/CentOS/bash]]
+- [[2 工具/CentOS/CentOS软件管理]]

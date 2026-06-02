@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/容器"
+  - "概念/链表"
+  - "笔记/速查"
+---
 # std::List 链表
 在 C++ STL 中，`std::list` 是一个**双向链表（Doubly Linked List）**。与 `std::vector`（动态数组）不同，`list` 在内存中并不是连续存储的，而是通过指针将一个个独立的节点连接起来。
 
@@ -83,3 +90,10 @@ myList.sort();                             // ✅ 正确做法
     
 
 **对比建议：** 如果你主要是在末尾添加数据并经常需要查找，请无脑选 `std::vector`；如果你的应用场景符合上述“频繁中段操作”，再考虑 `std::list`。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/Vector]]
+- [[1 学习/编程/C++/STL/Container/Deque]]
+- [[1 学习/编程/C++/STL/Iterator/Iterator分类]] — list 配双向迭代器

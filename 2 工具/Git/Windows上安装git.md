@@ -1,4 +1,9 @@
-
+---
+tags:
+  - "工具/Git"
+  - "工具/Windows"
+  - "笔记/速查"
+---
 ### **步骤 1：下载 Git 安装包**
 
 首先访问 Git 官方下载页面，获取适用于 Windows 的安装程序：
@@ -100,3 +105,8 @@ git config --global --list
 - 推荐日常使用「Git Bash」（安装后在开始菜单或桌面可找到），它支持 Linux 风格的命令（如 `ls`、`cd`），更适合 Git 操作。
 
 至此，Windows 11 上的 Git 就安装配置完成了，可以开始使用 Git 进行版本控制了！
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Git/Git概述]]

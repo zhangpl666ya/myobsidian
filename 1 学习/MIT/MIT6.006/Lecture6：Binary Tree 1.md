@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/MIT6.006"
+  - "概念/二叉树"
+  - "概念/树"
+  - "笔记/课程笔记"
+---
 我们期望一种数据结构，可以达到：
 - Sequnce
 	- Container：O（n）
@@ -75,3 +82,10 @@
 - 通过在节点中添加`node.size`记录子树大小
 	- 添加节点时，给所有祖先节点的`.size`加一
 	- 删除节点时，给所有祖先节点的`.size`减一
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/MIT/MIT6.006/Lecture7：Binary Tree 2 AVL]]
+- [[Excalidraw/tree_rotate]]
+- [[1 学习/编程/Python/数据结构/基础数据结构]]

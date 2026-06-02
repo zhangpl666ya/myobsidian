@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/迭代器"
+  - "概念/操作"
+  - "笔记/速查"
+---
 先看：[[Iterator分类]]
 下面我**不再从容器讲起**，而是**从“迭代器能做什么操作”出发**，系统讲清楚这些 _operations_，以及**哪些迭代器类型支持哪些操作**，这是标准库真正关心的东西。
 
@@ -328,3 +335,10 @@ void algo(It first, It last);
 ---
 
 [[迭代器统一接口函数]]
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Iterator/Iterator是什么]]
+- [[1 学习/编程/C++/STL/Iterator/Iterator分类]]
+- [[1 学习/编程/C++/STL/Iterator/迭代器统一接口函数]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/容器"
+  - "概念/双端队列"
+  - "笔记/速查"
+---
 ## 一、什么是 `std::deque`？
 
 `std::deque`（double-ended queue，双端队列）是 **顺序容器**，它支持从队列的 **两端**进行高效的插入和删除操作。
@@ -203,3 +210,9 @@ int main() {
 > `std::deque` 是一个 **双端队列**，支持高效的两端插入和删除操作，且提供 **随机访问**，非常适合需要在两端频繁操作的场景。
 
 ---
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Container/Vector]]
+- [[1 学习/编程/C++/STL/Container/List]]

@@ -1,6 +1,13 @@
+---
+tags:
+  - "学习/编程/Python"
+  - "概念/generator"
+  - "概念/生成器"
+  - "笔记/速查"
+---
 生成元包括*generator expression*s 和 *generator functions*
 （翻译一下，生成器表达式和生成函数？）
-关于generator function：[[Yield关键字]]
+关于 generator function：[[Yield关键字]]；迭代协议的完整工作原理见 [[1 学习/编程/Python/迭代协议（迭代器）]]
 # *Generator Expressions*
 list comprehensions 和generator expressions 的区别有时候时很难把握的，试着列出一些区别
 ## 1️⃣List comprehensions 方括号，generator expressions 圆括号
@@ -72,3 +79,9 @@ print("\ndoing something in between")
 for n in G:
     print(n, end=' ')
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/自定义函数/Yield关键字]]
+- [[1 学习/编程/Python/迭代协议（迭代器）]]

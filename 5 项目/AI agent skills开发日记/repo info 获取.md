@@ -1,3 +1,10 @@
+---
+tags:
+  - "项目/AIagent"
+  - "工具/Github"
+  - "工具/requests"
+  - "笔记/项目日志"
+---
 # requests库
 requests库用于发送网页请求，可以获取和上传：
 
@@ -15,3 +22,10 @@ data = r.json()
 requests.post("url",data = data)
 #上传
 ```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/包/requests 库]]
+- [[2 工具/Git/Github]]
+- [[5 项目/AI agent skills开发日记/调用本地大模型读取网页内容（基础版）]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/编程/Python"
+  - "工具/JSON"
+  - "笔记/速查"
+---
 python中的json解析后是dict跟list层层套出来的。
 用逐步探查法——像剥洋葱一样一层层看：
 ```python
@@ -26,3 +32,8 @@ print(data[0]['meanings'][0]['definitions'][0])  # {'definition': '...', ...}
 - dict.keys() — 看所有键
 - list[0] — 按索引取值
 - 一层层往下走，不要跳步
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/包/JSON 与 API 响应]]

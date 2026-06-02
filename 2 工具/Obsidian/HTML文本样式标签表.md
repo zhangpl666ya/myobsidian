@@ -1,4 +1,9 @@
-
+---
+tags:
+  - "工具/Obsidian"
+  - "工具/HTML"
+  - "笔记/速查"
+---
 |分类|标签|核心功能|语法示例|效果展示|扩展用法（CSS 调整）|
 |---|---|---|---|---|---|
 |基础样式|`<b>`|文字加粗（无语义，仅样式）|`<b>加粗文本</b>`|<b>加粗文本</b>|`<b style="color: blue;">蓝色加粗</b>` → <b style="color: blue;">蓝色加粗</b>|
@@ -60,3 +65,8 @@
     ```
     
     效果：<u style="text-decoration-thickness: 2px;">粗下划线文字</u>
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Obsidian/obsidian语法]] — markdown 内的 HTML 用法

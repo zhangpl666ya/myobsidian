@@ -1,3 +1,10 @@
+---
+tags:
+  - "学习/MIT6.006"
+  - "概念/数据结构"
+  - "概念/接口"
+  - "笔记/课程笔记"
+---
 # 1️⃣数据结构接口
 - 数据结构是一种存储数据的方式，python中内置了许多支持对这些数据操作的算法
 - 这些支持的操作的集合即接口（也叫API和ADT）
@@ -72,5 +79,10 @@
 |  Linked List   |     n      |          n           |                  1                   |                  n                  |                 n                 |
 | Dynamic Array  |     n      |          1           |                  n                   |                1(a)                 |                 n                 |
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
 
-
+- [[1 学习/MIT/MIT6.006/Lecture3：Sorting]]
+- [[1 学习/编程/C++/STL/Container/Vector]]
+- [[1 学习/编程/C++/STL/Container/Map]]
+- [[1 学习/编程/Python/数据结构/基础数据结构]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/Git"
+  - "工具/Github"
+  - "笔记/速查"
+---
 [github](https://github.com/)
 这篇专门记录github设置和使用技巧
 ## 团队内协作
@@ -14,3 +20,9 @@
 * `ssh-keygen`：启动生成密钥的工具
 * `-t 加密方式`:-t是类型的意思，后面加加密方式（ed25519或rsa）
 * `-C 邮箱`：-C是备注的意思，只是给密钥加个标签
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Git/Git概述]]
+- [[5 项目/AI agent skills开发日记/repo info 获取]] — GitHub API

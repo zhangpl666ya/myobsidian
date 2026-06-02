@@ -1,3 +1,9 @@
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/range-for"
+  - "笔记/速查"
+---
 ## 一、范围 for 循环是什么？
 
 范围 for 循环是 C++11 新增的语法糖，专门用来 **遍历 “有明确范围的集合”**（比如 `string`、`vector` 等），本质是简化了传统的迭代器循环或下标循环。
@@ -84,3 +90,9 @@ for (const char& ch : s) {
 ```
 
 对 `char` 来说，`const char&` 和 `char` 性能几乎没区别，但建议养成这个习惯（比如后续遍历 `vector<string>` 时，`const string&` 能避免大量拷贝）。
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Iterator/Iterator是什么]] — range-for 底层用迭代器
+- [[1 学习/编程/C++/STL/Container/Vector]]

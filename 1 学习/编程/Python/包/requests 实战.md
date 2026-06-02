@@ -1,4 +1,9 @@
 ---
+tags:
+  - "学习/编程/Python"
+  - "工具/requests"
+  - "工具/爬虫"
+  - "笔记/速查"
 tags: [Python, 网络请求, requests, 代码模板]
 ---
 
@@ -64,3 +69,9 @@ response.raise_for_status()
 - 库的基础概念见 [[requests 库]]
 - AI API 响应解析见 [[JSON 与 API 响应]]
 - 错误处理见 [[网络请求 错误处理]]
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/Python/包/requests 库]]
+- [[1 学习/编程/Python/包/网络请求 错误处理]]

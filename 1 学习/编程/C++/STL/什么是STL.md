@@ -1,5 +1,10 @@
-
-
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/STL"
+  - "概念/标准库"
+  - "笔记/MOC"
+---
 C++ **STL (Standard Template Library，标准模板库)** 是 C++ 标准库的核心组成部分。它是一套强大的、通用的 C++ 模板类和函数的集合，旨在为程序员提供通用的数据结构和算法。
 
 简单来说，STL 就像是一个**标准化的工具箱**，通过使用它，你不需要从零开始编写链表、排序算法或队列，直接调用即可。
@@ -60,3 +65,10 @@ STL 的设计基于泛型编程（Generic Programming），主要由以下四个
 
 ---
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Template]]
+- [[1 学习/编程/C++/STL/Container/Vector]]
+- [[1 学习/编程/C++/STL/Iterator/Iterator是什么]]
+- [[1 学习/编程/C++/Lambda]]

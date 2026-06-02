@@ -1,3 +1,9 @@
+---
+tags:
+  - "工具/Git"
+  - "概念/版本控制"
+  - "笔记/概念入门"
+---
 [这有一个很好的视频教程](https://www.bilibili.com/video/BV1T3ghzkEGR?spm_id_from=333.788.videopod.sections&vd_source=e05144df1ad0068047980060f7c9eff8)
 # Git概述
 Git是一个免费开源的分布式版本控制系统
@@ -49,3 +55,11 @@ git版本控制的本质就是有一个HEAD指针和多个分支指针指来指�
 版本控制中，同时推进多个任务，每个任务都可以创建一个分支
 
 同时并行推进多个功能开发，提高开发效率
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[2 工具/Git/git常用命令]]
+- [[2 工具/Git/Checkout命令]]
+- [[2 工具/Git/Windows上安装git]]
+- [[2 工具/Git/confusion]]

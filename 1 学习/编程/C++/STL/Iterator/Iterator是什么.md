@@ -1,4 +1,10 @@
-
+---
+tags:
+  - "学习/编程/C++"
+  - "概念/迭代器"
+  - "概念/STL"
+  - "笔记/概念入门"
+---
 学习迭代器，最有效的方法不是看定义，而是**模拟它的进化过程**。让我们换个思路，从“为什么要发明这玩意儿”开始，一步步理解。
 
 ---
@@ -111,3 +117,12 @@ for (auto it = v.begin(); it != v.end(); ) { // 注意这里不写 ++it
 
 ---
 
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[1 学习/编程/C++/STL/Iterator/Iterator分类]]
+- [[1 学习/编程/C++/STL/Iterator/Iterator Operations]]
+- [[1 学习/编程/C++/STL/Iterator/迭代器统一接口函数]]
+- [[1 学习/编程/C++/STL/Iterator/统一接口原理总结]]
+- [[1 学习/编程/Python/迭代协议（迭代器）]] — 跨语言对比
+- [[1 学习/编程/C++/范围for循环]]
