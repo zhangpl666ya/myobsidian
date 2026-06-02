@@ -4,7 +4,7 @@ tags:
   - "工具/BeautifulSoup"
   - "工具/爬虫"
   - "笔记/速查"
-tags: [Python, 网络请求, BeautifulSoup, HTML 解析]
+
 ---
 
 # Python - BeautifulSoup 4

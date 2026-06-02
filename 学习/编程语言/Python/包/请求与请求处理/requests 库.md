@@ -4,7 +4,7 @@ tags:
   - "工具/requests"
   - "工具/HTTP"
   - "笔记/速查"
-tags: [Python, 网络请求, requests]
+
 ---
 
 # Python - requests 库
