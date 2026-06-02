@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/暑期计划.md",
+                "file": "4 日记/暑期计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/暑期计划.md",
+                "file": "4 日记/暑期计划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,6 +171,9 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
+    "工具/系统/Linux/Linux系统开机导览.md",
+    "学习/编程语言/C/sed94scgY",
+    "Inbox/sedSJFmqg",
     "Inbox/论文.md",
     "Inbox/讲义.md",
     "Inbox/未命名.md",
@@ -196,7 +199,6 @@
     "工具/笔记软件/Obsidian/注意事项.md",
     "工具/笔记软件/Obsidian/模板.md",
     "工具/笔记软件/Obsidian/插件介绍.md",
-    "工具/笔记软件/Obsidian/图片.md",
     "学习/编程语言/Python/自定义函数",
     "学习/编程语言/Python/环境管理",
     "学习/编程语言/Python/文件管理",
@@ -205,8 +207,6 @@
     "学习/编程语言/Python/包",
     "学习/编程语言/Python/python协议（protocol）",
     "学习/编程语言/C++/编译",
-    "学习/编程语言/C++/STL/Iterator",
-    "学习/编程语言/C++/STL/Container/单变量存储多类型数据",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
