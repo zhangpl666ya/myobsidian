@@ -22,4 +22,4 @@ Linux系统只用一个根目录 叫 /
 ## 相关笔记
 
 - [[工具/系统/Linux/bash]]
-- [[工具/系统/Linux/CentOS软件管理]]
+- [[工具/系统/Linux/Linux软件管理]]

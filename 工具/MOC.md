@@ -44,10 +44,10 @@ tags:
 
 ## 🐧 Linux/CentOS
 
-- [[工具/系统/Linux/CentOS系统开机导览]]
+- [[工具/系统/Linux/Linux系统开机导览]]
 - [[工具/系统/Linux/bash]] — 命令格式
 - [[工具/系统/Linux/Linux的文件]] — 路径
-- [[工具/系统/Linux/CentOS软件管理]] — 软件安装
+- [[工具/系统/Linux/Linux软件管理]] — 软件安装
 - [[工具/系统/Linux/root用户]]
 - [[工具/系统/Linux/用户、用户组与权限信息]]
 - [[工具/系统/Linux/系统与网络信息]]

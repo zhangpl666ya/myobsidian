@@ -268,6 +268,6 @@ ps -aux #配合管道符以及grep筛选需要查看的程序，查看进程号
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[工具/系统/Linux/CentOS软件管理]]
+- [[工具/系统/Linux/Linux软件管理]]
 - [[工具/系统/Linux/Linux的文件]]
 - [[工具/系统/Linux/各类小技巧快捷键]]
