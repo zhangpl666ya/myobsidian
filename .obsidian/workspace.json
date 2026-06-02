@@ -11,14 +11,10 @@
             "id": "6ad14ea6a4518822",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 学习/编程/C++/类型转换.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "类型转换"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 日记/暑期计划.md",
+                "file": "日记/暑期计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 学习/编程/C++/类型转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "类型转换 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 日记/暑期计划.md",
+                "file": "日记/暑期计划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,42 +171,42 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
-    "1 学习/编程/Python/包/BeautifulSoup.md",
-    "5 项目/MOC.md",
-    "2 工具/MOC.md",
-    "0 Inbox/MOC.md",
-    "1 学习/编程/C/MOC.md",
-    "1 学习/编程/Python/MOC.md",
-    "1 学习/编程/C++/MOC.md",
-    "1 学习/编程/Python/包/requests 库.md",
-    "1 学习/编程/Python/包/JSON 与 API 响应.md",
-    "1 学习/编程/Python/包/Requests Library Cheatsheet.md",
-    "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
-    "1 学习/编程/Python/包/cheetsheet.md",
-    "1 学习/编程/Python/包/网络请求 错误处理.md",
-    "1 学习/编程/Python/包/requests 实战.md",
-    "1 学习/编程/Python/包/未命名",
-    "1 学习/编程/Python/包/PySide6/信号槽机制.md",
-    "1 学习/编程/Python/包/requests",
-    "1 学习/MIT/MIT6.041/Lecture 11 - 卷积、协方差与相关性.md",
-    "1 学习/编程/Python/包",
-    "1 学习/编程/Python/未命名.md",
-    "1 学习/MIT/MIT6.041/Lecture 09 - 多元连续随机变量与条件分布.md",
-    "1 学习/MIT/MIT6.041/Lecture 10 - 连续贝叶斯法则与导出分布.md",
-    "2 工具/Git/git常用命令.md",
-    "2 工具/Git/Git概述.md",
-    "Notes_OLD/Dockers/desktop.ini",
-    "4 日记/暑期计划.md",
-    "4 日记/暑期目标！.md",
-    "4 日记/尝鲜的工具.md",
-    "1 学习/MIT/MIT6.041/Lecture 06 - 条件PMF与联合分布.md",
-    "0 Inbox/未命名.base",
-    "2 工具/Obsidian/obsidian语法.md",
-    "0 Inbox/Untitled.base",
-    "0 Inbox/样式踩坑测试.pdf",
-    "0 Inbox/test.tex",
-    "0 Inbox/test_clean.tex",
-    "0 Inbox/test_output.tex",
+    "Inbox/论文.md",
+    "Inbox/讲义.md",
+    "Inbox/未命名.md",
+    "Inbox/ollama-status-report.md",
+    "Inbox/MOC.md",
+    "学习/课程/MIT6.006-算法导论/Lecture 07 - Binary Tree 2 AVL.md",
+    "学习/课程/MIT6.006-算法导论/Lecture 06 - Binary Tree 1.md",
+    "学习/课程/MIT6.006-算法导论/Lecture 05 - Linear Sorting.md",
+    "学习/课程/MIT6.006-算法导论/Lecture 04 - Hashing.md",
+    "学习/课程/MIT6.006-算法导论/Lecture 03 - Sorting.md",
+    "学习/课程/MIT6.006-算法导论/Lecture 02 - Data Structure.md",
+    "学习/课程/MIT6.006-算法导论/Lecture 01 - Introduction.md",
+    "项目/WordPet桌宠/项目设计文档.md",
+    "日记/暑期计划.md",
+    "日记/尝鲜的工具.md",
+    "模板/日记模板.md",
+    "模板/会议记录模板.md",
+    "项目/MOC.md",
+    "项目/AI agent skills/调用本地大模型读取网页内容（基础版）.md",
+    "项目/AI agent skills/repo info 获取.md",
+    "项目/AI agent skills/api key.md",
+    "工具/MOC.md",
+    "工具/笔记软件/Obsidian/注意事项.md",
+    "工具/笔记软件/Obsidian/模板.md",
+    "工具/笔记软件/Obsidian/插件介绍.md",
+    "工具/笔记软件/Obsidian/图片.md",
+    "学习/编程语言/Python/自定义函数",
+    "学习/编程语言/Python/环境管理",
+    "学习/编程语言/Python/文件管理",
+    "学习/编程语言/Python/数据结构",
+    "学习/编程语言/Python/包/PySide6",
+    "学习/编程语言/Python/包",
+    "学习/编程语言/Python/python协议（protocol）",
+    "学习/编程语言/C++/编译",
+    "学习/编程语言/C++/STL/Iterator",
+    "学习/编程语言/C++/STL/Container/单变量存储多类型数据",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",

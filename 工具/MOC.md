@@ -1,0 +1,70 @@
+---
+tags:
+  - "笔记/MOC"
+---
+<!-- related: managed by hermes-linkbot -->
+# 工具地图 (Map of Content)
+
+> 本页是这个主题的**知识地图**。所有相关笔记都汇总在这里，按主题分类，方便你从入口切入整套知识。
+>
+> 添加新笔记时，请到对应小节下加一行 `[[文件名|显示名]]`；不要新增散落的入口。
+
+> 工具笔记按 **构建 / 版本控制 / 容器化 / 系统 / 编辑器 / Obsidian** 分类。
+> 项目里需要用工具时，先来这里找。
+
+---
+
+
+## 🔨 构建工具 (Scripts/)
+
+- [[工具/构建/CMake/CMake总览]] — 先看：CMake 是 Makefile 生成器
+- [[工具/构建/CMake/CMake命令]] — 速查
+- [[工具/构建/Makefile/Makefile]] — 底层构建脚本
+- [[工具/构建/Makefile/一个示例]] — 完整示例
+- [[工具/构建/Makefile/Linux中静态库、动态库的命令行链接]] — Linux 库链接
+
+## 🌿 版本控制 (Git/)
+
+- [[工具/版本控制/Git/Git概述]] — 入口
+- [[工具/版本控制/Git/git常用命令]] — 速查
+- [[工具/版本控制/Git/Checkout命令]] — checkout
+- [[工具/版本控制/Git/Github]] — 远程协作
+- [[工具/版本控制/Git/gitignore文件]] — 忽略规则
+- [[工具/版本控制/Git/confusion]] — 常见疑惑
+- [[工具/版本控制/Git/Windows上安装git]]
+- [[工具/版本控制/Git/零碎]] — 小技巧
+
+## 🐳 容器化 (Docker/)
+
+- [[工具/容器/Docker/00-Docker学习笔记导航]] — Docker MOC
+- [[工具/容器/Docker/01-Docker基础概念]]
+- [[工具/容器/Docker/02-Dockerfile基础]]
+- [[工具/容器/Docker/03-Dockerfile进阶-多阶段构建]]
+- [[工具/容器/Docker/04-Docker-Compose入门]]
+
+## 🐧 Linux/CentOS
+
+- [[工具/系统/Linux/CentOS系统开机导览]]
+- [[工具/系统/Linux/bash]] — 命令格式
+- [[工具/系统/Linux/Linux的文件]] — 路径
+- [[工具/系统/Linux/CentOS软件管理]] — 软件安装
+- [[工具/系统/Linux/root用户]]
+- [[工具/系统/Linux/用户、用户组与权限信息]]
+- [[工具/系统/Linux/系统与网络信息]]
+- [[工具/系统/Linux/各类小技巧快捷键]]
+- [[工具/系统/Linux/虚拟机快照]]
+
+## 📝 Obsidian
+
+- [[工具/笔记软件/Obsidian/obsidian学习笔记]] — Obsidian MOC
+- [[工具/笔记软件/Obsidian/obsidian语法]] — markdown 语法
+- [[工具/笔记软件/Obsidian/双链]] — wikilink 用法
+- [[工具/笔记软件/Obsidian/模板]]
+- [[工具/笔记软件/Obsidian/插件介绍]]
+- [[工具/笔记软件/Obsidian/注意事项]]
+- [[工具/笔记软件/Obsidian/HTML文本样式标签表]]
+- [[工具/笔记软件/Obsidian/图片]]
+
+## ⌨️ 编辑器
+
+- [[工具/编辑器/Vim/Vim]] — 模式介绍

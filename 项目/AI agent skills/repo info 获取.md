@@ -1,0 +1,31 @@
+---
+tags:
+  - "项目/AIagent"
+  - "工具/Github"
+  - "工具/requests"
+  - "笔记/项目日志"
+---
+# requests库
+requests库用于发送网页请求，可以获取和上传：
+
+## API调用
+是HTTP请求的一种，专门用于信息的传输而不是给人看。
+一般API的网站和官网名字不一样
+使用`requests.get("url")`获得的是JSON字典列表
+可用JSON解析将其转化为python字典列表
+
+
+```python
+r = requests.get("url")
+data = r.json()
+#获取
+requests.post("url",data = data)
+#上传
+```
+
+<!-- related: managed by hermes-linkbot -->
+## 相关笔记
+
+- [[学习/编程语言/Python/包/requests 库]]
+- [[工具/版本控制/Git/Github]]
+- [[项目/AI agent skills/调用本地大模型读取网页内容（基础版）]]
