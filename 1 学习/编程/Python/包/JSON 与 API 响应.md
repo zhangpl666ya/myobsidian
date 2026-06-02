@@ -49,5 +49,5 @@ ai_text = response.json()["choices"][0]["message"]["content"]
 
 ## 关联
 
-- 配合 [[Python - requests 实战]] 的 POST 模板
-- 错误处理见 [[Python - 网络请求 错误处理]]
+- 配合 [[requests 实战]] 的 POST 模板
+- 错误处理见 [[网络请求 错误处理]]

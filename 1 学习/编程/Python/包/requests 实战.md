@@ -61,6 +61,6 @@ response.raise_for_status()
 
 ## 关联
 
-- 库的基础概念见 [[Python - requests 库]]
-- AI API 响应解析见 [[Python - JSON 与 API 响应]]
-- 错误处理见 [[Python - 网络请求 错误处理]]
+- 库的基础概念见 [[requests 库]]
+- AI API 响应解析见 [[JSON 与 API 响应]]
+- 错误处理见 [[网络请求 错误处理]]

@@ -74,5 +74,5 @@ url = tag['href'] if 'href' in tag.attrs else "default"
 
 ## 关联
 
-- 配合 [[Python - requests 库]] 做爬虫
-- 配合 [[Python - requests 实战]] 的 GET 模板
+- 配合 [[requests 库]] 做爬虫
+- 配合 [[requests 实战]] 的 GET 模板

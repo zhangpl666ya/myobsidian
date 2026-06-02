@@ -53,7 +53,7 @@ fake_headers = {
 
 ## 关联
 
-- 实战代码见 [[Python - requests 实战]]
-- HTML 解析见 [[Python - BeautifulSoup]]
-- 响应处理见 [[Python - JSON 与 API 响应]]
-- 错误处理见 [[Python - 网络请求 错误处理]]
+- 实战代码见 [[requests 实战]]
+- HTML 解析见 [[BeautifulSoup]]
+- 响应处理见 [[JSON 与 API 响应]]
+- 错误处理见 [[网络请求 错误处理]]
