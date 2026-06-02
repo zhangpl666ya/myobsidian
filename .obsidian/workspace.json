@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 学习/编程/Python/包/BeautifulSoup.md",
+                "file": "1 学习/编程/C++/类型转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BeautifulSoup"
+              "title": "类型转换"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 学习/编程/Python/包/BeautifulSoup.md",
+                "file": "1 学习/编程/C++/类型转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "BeautifulSoup 的出链列表"
+              "title": "类型转换 的出链列表"
             }
           },
           {
@@ -174,8 +174,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a312171a268b8fe1",
+  "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
+    "1 学习/编程/Python/包/BeautifulSoup.md",
     "5 项目/MOC.md",
     "2 工具/MOC.md",
     "0 Inbox/MOC.md",
@@ -184,7 +185,6 @@
     "1 学习/编程/C++/MOC.md",
     "1 学习/编程/Python/包/requests 库.md",
     "1 学习/编程/Python/包/JSON 与 API 响应.md",
-    "1 学习/编程/Python/包/BeautifulSoup.md",
     "1 学习/编程/Python/包/Requests Library Cheatsheet.md",
     "1 学习/编程/Python/包/Beautifulsoup Library Cheatsheet.md",
     "1 学习/编程/Python/包/cheetsheet.md",

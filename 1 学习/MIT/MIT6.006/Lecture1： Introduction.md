@@ -41,7 +41,7 @@ Asymptotic Notations渐进符号：
 
 # 3️⃣数据结构
 本讲介绍了python中的Static array：
-- `StaticArray(n)`: 分配一个全是零的大小为n的静态数组，时间复杂度Θ（n）
+- `StaticArray(n)`: 分配一个全是零的大小为n的静态数组，时间复杂度 Θ（n）；更多时间复杂度分析见后续 Lecture，与 [[1 学习/MIT/MIT6.041/Lecture 05 - 随机变量|概率论均值/方差]] 形成"复杂度 vs 期望"的两种思维
 - `StaticArray.get_at(i)`：返回在索引i处的内容，时间复杂度Θ（1）
 - `StaticArray.set_at(i,x)`：将x写入索引i处，时间复杂度Θ（1）
 
