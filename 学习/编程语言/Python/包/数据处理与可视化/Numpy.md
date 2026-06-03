@@ -93,4 +93,5 @@ print("Original Grid remains untouched by copy:\n", sales_grid)
 ```
 - `.reshape`会重组形状
 - 切片以0为基数，左闭右开
-- 
+- 直接切出来的是视窗
+- 若需要一个新的拷贝，用自带的函数`np.copy`
