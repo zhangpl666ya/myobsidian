@@ -51,4 +51,46 @@ print("Unified Data Type:", sales_matrix.dtype)
 - 一维的ndarray会被解包，然后被当作两个元组合成一个高维数据结构，这个过程中基础数据结构提升统一
 
 ### 查询与过滤
-生成一个布尔掩码，
+生成一个布尔掩码，就可以直接提取内容
+```python
+# Create a conditional boolean matrix
+mask = sales_matrix > 22 [cite: 9]
+print("\nBoolean Mask (matrix > 22):\n", mask)
+
+# Extract only elements meeting the condition into a flattened array
+high_sales = sales_matrix[mask] [cite: 9]
+print("Filtered high sales elements:", high_sales) [cite: 9]
+```
+- 这里筛选出的结果以数组形式返回
+
+## 数据切片与视窗
+这里要分清楚拷贝与视窗的区别，一个是完全复制一遍底层数据，一个是产生一个视窗，或者说C++中的引用。ndarray与python数组不一样，python数组切片为复制，而ndarray的切片为视窗，修改是会反映在原数组上的
+```python
+import numpy as np
+
+# Let's create a 4x4 matrix representing 4 stores over 4 quarters
+# Using np.arange to generate sequential data from 1 to 16, then reshaping it
+sales_grid = np.arange(1, 17).reshape(4, 4)
+
+print("Original 4x4 Sales Grid:\n", sales_grid)
+
+# Slice a sub-section: Rows 1 and 2, Columns 1, 2, and 3 
+# (Remember Python indexing is 0-based and upper boundaries are exclusive)
+sub_view = sales_grid[1:3, 1:4]
+print("\nExtracted Sub-view (Rows 1-2, Cols 1-3):\n", sub_view)
+
+# Modifying the view modifies the original data block!
+sub_view[0, 0] = 999 
+
+print("\nGrid after modifying sub_view:\n", sales_grid)
+
+# Create an isolated deep copy of the slice
+isolated_copy = np.copy(sales_grid[1:3, 1:4]) # 
+isolated_copy[0, 0] = -55
+
+print("\nIsolated Copy altered:\n", isolated_copy)
+print("Original Grid remains untouched by copy:\n", sales_grid)
+```
+- `.reshape`会重组形状
+- 切片以0为基数，左闭右开
+- 
