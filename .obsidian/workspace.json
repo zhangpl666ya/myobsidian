@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/编程语言/C/cMOC.md",
+                "file": "学习/编程语言/Python/包/数据处理与可视化/Panda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cMOC"
+              "title": "Panda"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
+    "学习/编程语言/C/cMOC.md",
     "学习/编程语言/Python/包/数据处理与可视化/Numpy.md",
     "学习/编程语言/Python/包/数据处理与可视化/Panda.md",
     "项目/WordPet桌宠/项目设计文档.md",
@@ -203,7 +204,6 @@
     "学习/LaTeX/字体.md",
     "学习/LaTeX/Latex配置知识.md",
     "学习/编程语言/Python/python协议（protocol）/迭代协议（迭代器）.md",
-    "学习/编程语言/Python/模块与封装.md",
     "学习/编程语言/Python/包/请求与请求处理",
     "项目/sedSsxI6S",
     "工具/sedUVRYln",
