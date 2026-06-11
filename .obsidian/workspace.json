@@ -142,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 日记/暑期计划.md",
+                "file": "学习/编程语言/Python/包/数据处理与可视化/Panda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "暑期计划 的大纲"
+              "title": "Panda 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,11 +174,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ad14ea6a4518822",
+  "active": "122a2a6244b9421d",
   "lastOpenFiles": [
+    "学习/编程语言/Python/包/数据处理与可视化/panda处理excel数据.md",
+    "学习/编程语言/Python/包/数据处理与可视化/Panda.md",
     "学习/编程语言/C/cMOC.md",
     "学习/编程语言/Python/包/数据处理与可视化/Numpy.md",
-    "学习/编程语言/Python/包/数据处理与可视化/Panda.md",
     "项目/WordPet桌宠/项目设计文档.md",
     "学习/编程语言/Python/文件管理/编码.md",
     "Inbox/未命名 1.md",
@@ -203,7 +204,6 @@
     "学习/编程语言/Python/数据结构/List 列表进阶.md",
     "学习/LaTeX/字体.md",
     "学习/LaTeX/Latex配置知识.md",
-    "学习/编程语言/Python/python协议（protocol）/迭代协议（迭代器）.md",
     "学习/编程语言/Python/包/请求与请求处理",
     "项目/sedSsxI6S",
     "工具/sedUVRYln",
