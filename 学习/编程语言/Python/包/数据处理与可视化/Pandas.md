@@ -1,4 +1,4 @@
-`panda`以下简称pd
+`pandas`以下简称pd
 其用一种数据结构`DataFrame`来存储数据，这是一张二维表格，想象成excel表格，每一列像一维数组一样处理，叫做`series`
 
 # 创建和观察DataFrame
