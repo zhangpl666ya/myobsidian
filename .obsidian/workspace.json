@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/编程语言/Python/包/请求与请求处理/BeautifulSoup.md",
+                "file": "学习/编程语言/Python/环境管理/conda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BeautifulSoup"
+              "title": "conda"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/编程语言/Python/包/请求与请求处理/BeautifulSoup.md",
+                "file": "学习/编程语言/Python/环境管理/conda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "BeautifulSoup 的大纲"
+              "title": "conda 的大纲"
             }
           }
         ],
@@ -176,6 +176,7 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
+    "学习/编程语言/Python/包/请求与请求处理/BeautifulSoup.md",
     "学习/编程语言/Python/包/数据处理与可视化/Pandas.md",
     "学习/编程语言/Python/python协议（protocol）/描述符协议.md",
     "学习/编程语言/Python/python协议（protocol）/什么是python的协议.md",
@@ -201,7 +202,6 @@
     "学习/编程语言/C++/类型转换.md",
     "学习/编程语言/C++/引用.md",
     "学习/编程语言/C++/Lambda.md",
-    "学习/编程语言/Python/包/请求与请求处理/BeautifulSoup.md",
     "学习/编程语言/Python/包/请求与请求处理/requests 实战.md",
     "学习/编程语言/Python/包/请求与请求处理/requests 库.md",
     "学习/编程语言/Python/包/请求与请求处理",

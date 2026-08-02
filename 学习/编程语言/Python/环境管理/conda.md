@@ -193,7 +193,7 @@ conda activate myenv
 ```bash
     conda install numpy pandas
 ```
-*   **从指定频道安装包**（你刚才用过的）：
+*   **从指定频道安装包**：
 ```bash
     conda install -c conda-forge pyppeteer
 ```
