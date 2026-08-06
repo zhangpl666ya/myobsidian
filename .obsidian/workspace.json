@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文阅读/Inference-stage Adaptation-project Strategy/First read.md",
+                "file": "论文阅读/模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First read"
+              "title": "模板"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "03041123a7700636",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文阅读/Inference-stage Adaptation-project Strategy/First read.md",
+                "file": "论文阅读/模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -159,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +178,8 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
-    "论文阅读/模板.md",
     "论文阅读/Inference-stage Adaptation-project Strategy/First read.md",
+    "论文阅读/模板.md",
     "论文阅读/Inference-stage Adaptation-project Strategy",
     "学习/编程语言/Python/环境管理/conda.md",
     "论文阅读",
