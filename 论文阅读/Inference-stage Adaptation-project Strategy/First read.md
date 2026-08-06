@@ -22,17 +22,23 @@ Conclusion
 ```
 这篇论文研究的问题是：
 
-答：
+答：如何提升diffusion policy的泛化能力
 
 过去的方法主要存在的问题是：
 
-答：
+答：为了让diffusion policy适应新场景需要昂贵的数据采集和训练代价
 
 作者提出的方法叫：
 
+答：adaptation-projection strategy
+
 核心思想是一句话：
 
+答：让diffusion policy拥有上手新场景的能力
+
 作者声称取得的效果：
+
+答：在各个硬件下取得高成功率
 
 ```
 # 2. Introduction（引言）
