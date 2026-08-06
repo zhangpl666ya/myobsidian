@@ -61,6 +61,10 @@ Conclusion
 
 填写：
 
+- 现实问题：Deep imitation learning在新硬件情况下表现极差
+- 已有方法：Multi-embodiment learning strategies
+- 为什么不好：需要大量数据，不适合应用落地
+- 新方向：Adaptation-projection strategy
 ---
 
 # 3.Conclusion
