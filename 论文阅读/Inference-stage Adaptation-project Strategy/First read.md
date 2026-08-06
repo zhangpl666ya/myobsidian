@@ -74,7 +74,14 @@ Conclusion
 ```
 作者认为本文解决的问题是：
 
+
+
 相比Introduction中的问题，这里有没有变化：
 
+无变化
+
 作者最终想留下的核心观点：
+
+答：adaptation-project strategy展现了很高的实用性
+
 ```
