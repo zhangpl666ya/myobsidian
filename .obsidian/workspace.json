@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文阅读/模板.md",
+                "file": "论文阅读/Inference-stage Adaptation-project Strategy/First read.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模板"
+              "title": "First read"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文阅读/模板.md",
+                "file": "论文阅读/Inference-stage Adaptation-project Strategy/First read.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,10 +176,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a312171a268b8fe1",
+  "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
-    "学习/编程语言/Python/环境管理/conda.md",
     "论文阅读/模板.md",
+    "论文阅读/Inference-stage Adaptation-project Strategy/First read.md",
+    "论文阅读/Inference-stage Adaptation-project Strategy",
+    "学习/编程语言/Python/环境管理/conda.md",
     "论文阅读",
     "Inbox/Untitled.base",
     "Inbox/test_mini.md",
@@ -207,13 +209,11 @@
     "学习/编程语言/Python/包/数据处理与可视化/panda处理excel数据.md",
     "学习/编程语言/C/cMOC.md",
     "项目/WordPet桌宠/项目设计文档.md",
-    "学习/编程语言/Python/文件管理/编码.md",
     "学习/编程语言/Python/包/数据处理与可视化",
     "Inbox/未命名.base",
     "学习/编程语言/Python/包/请求与请求处理",
     "项目/sedSsxI6S",
     "工具/sedUVRYln",
-    "学习/编程语言/C/sed94scgY",
     "attachment/Pasted image 20260206110957.png",
     "attachment/Pasted image 20260206110837.png",
     "海月.png",
