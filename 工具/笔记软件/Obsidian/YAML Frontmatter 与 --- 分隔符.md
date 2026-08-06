@@ -245,7 +245,7 @@ tags:
 - Obsidian 基础目录: [[obsidian学习笔记]]
 - Markdown 语法: [[obsidian语法]]
 - 双链用法: [[双链]]
-- 模板机制: [[模板]]
+- 模板机制: [[工具/笔记软件/Obsidian/模板]]
 - 插件一览: [[插件介绍]]
 
 <!-- related: managed by hermes-linkbot -->
@@ -253,4 +253,4 @@ tags:
 
 - [[obsidian学习笔记]]
 - [[双链]]
-- [[模板]]
+- [[工具/笔记软件/Obsidian/模板]]

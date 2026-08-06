@@ -27,6 +27,6 @@ tags:
 <!-- related: managed by hermes-linkbot -->
 ## 相关笔记
 
-- [[未命名]] — 6.006 在 AI 路线中是核心枢纽
+- [[论文阅读/模板]] — 6.006 在 AI 路线中是核心枢纽
 - [[Lecture 01 - Introduction]]
 - [[Lecture 02 - Data Structure]]
