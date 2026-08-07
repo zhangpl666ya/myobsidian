@@ -31,7 +31,7 @@ Experiment
 
 输出:调整后的运动轨迹
 
-整个pipeline：先
+整个pipeline：先离线训练一个diffusion policy，预先人为输入新的机械手与任务的规格，strategy给出调整后的运动轨迹
 ```
 
 画：
