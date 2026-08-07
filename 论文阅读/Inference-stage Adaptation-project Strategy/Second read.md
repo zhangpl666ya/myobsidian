@@ -23,15 +23,15 @@ Experiment
 填写：
 
 ```
-输入：
+输入：特定硬件下的训练数据、任务规格与控制器规格
 
-经过：
+经过：离线训练diffusion policy，除噪音后与新任务规格数据一起给入adaptation-projection strategy
 
-模型：
+模型：adaptation-projection strategy
 
-输出：
+输出:调整后的运动轨迹
 
-整个pipeline：
+整个pipeline：先
 ```
 
 画：
