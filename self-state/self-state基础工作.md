@@ -93,3 +93,20 @@ $$ z_t=E_\theta(y_{t-K:t},u_{t-K:t-1}) $$
 ## $E_\theta$ : 参数编码器
 用来将所需要的信息编码成self-state表征：
 $$z_t = E_\theta(y_{t-K:t},u_{t-K:t-1})$$
+## $r_{t}^{int}$ : 交互结果
+例如接触力、滑移、碰撞、抓取稳定性或任务失败事件，interaction outcome。
+
+# 系统结构
+>模型首先从身体观测与历史动作中形成当前 self-state；策略据此生成候选动作，身体模型再预测各候选动作可能导致的未来身体状态与交互结果。
+
+## 1.策略产生可能的未来动作
+$$ p_{\pi}(u_{t:t+H-1} | z_t^{self},O_t^{visual},g)$$
+其中g是任务目标，由self-state与视觉观测一同预测action chunk
+
+## 2.动力学模型预测这些动作的后果
+$$ p_{F}\left(x_{t+1: t+H}^{self},r^{int}_{t+1,t+H}|z^{self}_{t},u_{t: t+H+1}\right)$$
+它表示：如果执行这组候选动作，未来身体状态和交互结果将如何变化？
+
+两部分联合起来就是：
+
+$$ p(u_{\mathrm{future}},x_{\mathrm{future}},r_{\mathrm{future}} \mid z_t^{self},o_t^{visual},g) = p_\pi(u_{\mathrm{future}}\mid z_t^{self},o_t^{visual},g) \, p_F(x_{\mathrm{future}},r_{\mathrm{future}}\mid z_t^{self},u_{\mathrm{future}}) $$
