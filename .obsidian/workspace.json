@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "self-state基础工作 1"
             }
+          },
+          {
+            "id": "f208711ed7d88811",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-state/self-state基础工作 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,7 +188,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ad14ea6a4518822",
+  "active": "f208711ed7d88811",
   "lastOpenFiles": [
     "self-state/self-state基础工作.md",
     "self-state/self-state基础工作 1.md",
