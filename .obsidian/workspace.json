@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-state/候选技术实现路径.md",
+                "file": "self-state/实验结果记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "候选技术实现路径"
+              "title": "实验结果记录"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-state/候选技术实现路径.md",
+                "file": "self-state/实验结果记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,9 +178,10 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
-    "self-state/self-state基础工作.md",
     "self-state/候选技术实现路径.md",
+    "self-state/实验结果记录.md",
     "self-state/可证伪命题.md",
+    "self-state/self-state基础工作.md",
     "self-state",
     "论文阅读/模板.md",
     "论文阅读/Inference-stage Adaptation-project Strategy/Second read.md",
@@ -209,7 +210,6 @@
     "学习/编程语言/Python/包/数据处理与可视化/Pandas.md",
     "学习/编程语言/Python/python协议（protocol）/描述符协议.md",
     "学习/编程语言/Python/python协议（protocol）/什么是python的协议.md",
-    "学习/编程语言/Python/python协议（protocol）/容器、序列协议.md",
     "学习/编程语言/Python/包/数据处理与可视化",
     "Inbox/未命名.base",
     "学习/编程语言/Python/包/请求与请求处理",
