@@ -106,7 +106,3 @@ $$ p_{\pi}(u_{t:t+H-1} | z_t^{self},O_t^{visual},g)$$
 ## 2.动力学模型预测这些动作的后果
 $$ p_{F}\left(x_{t+1: t+H}^{self},r^{int}_{t+1,t+H}|z^{self}_{t},u_{t: t+H+1}\right)$$
 它表示：如果执行这组候选动作，未来身体状态和交互结果将如何变化？
-
-两部分联合起来就是：
-
-$$ p(u_{\mathrm{future}},x_{\mathrm{future}},r_{\mathrm{future}} \mid z_t^{self},o_t^{visual},g) = p_\pi(u_{\mathrm{future}}\mid z_t^{self},o_t^{visual},g) \, p_F(x_{\mathrm{future}},r_{\mathrm{future}}\mid z_t^{self},u_{\mathrm{future}}) $$
