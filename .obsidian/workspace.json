@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-state/可证伪命题.md",
+                "file": "self-state/本体感知与自体状态定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可证伪命题"
+              "title": "本体感知与自体状态定义"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-state/可证伪命题.md",
+                "file": "self-state/本体感知与自体状态定义.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,8 +178,8 @@
   },
   "active": "6ad14ea6a4518822",
   "lastOpenFiles": [
-    "self-state/本体感知与自体状态定义.md",
     "self-state/可证伪命题.md",
+    "self-state/本体感知与自体状态定义.md",
     "self-state",
     "论文阅读/模板.md",
     "论文阅读/Inference-stage Adaptation-project Strategy/Second read.md",
