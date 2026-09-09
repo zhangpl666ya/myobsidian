@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-state/self-state基础工作.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "self-state基础工作"
+              "title": "未命名"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-state/self-state基础工作.md",
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,8 +178,9 @@
   },
   "active": "f208711ed7d88811",
   "lastOpenFiles": [
-    "self-state/self-state基础工作 1.md",
     "self-state/self-state基础工作.md",
+    "未命名.md",
+    "self-state/self-state基础工作 1.md",
     "self-state/可证伪命题.md",
     "self-state/候选技术实现路径.md",
     "self-state/第一阶段实验结果记录.md",
@@ -209,7 +210,6 @@
     "学习/编程语言/Python/包/数据处理与可视化/Numpy.md",
     "report",
     "学习/编程语言/Python/包/请求与请求处理/BeautifulSoup.md",
-    "学习/编程语言/Python/包/数据处理与可视化/Pandas.md",
     "学习/编程语言/Python/包/数据处理与可视化",
     "Inbox/未命名.base",
     "学习/编程语言/Python/包/请求与请求处理",
