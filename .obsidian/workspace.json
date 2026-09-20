@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-state/可证伪命题.md",
+                "file": "self-state/self-state基础工作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可证伪命题"
+              "title": "self-state基础工作"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-state/可证伪命题.md",
+                "file": "self-state/self-state基础工作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,15 +176,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f208711ed7d88811",
+  "active": "a312171a268b8fe1",
   "lastOpenFiles": [
+    "self-state/可证伪命题.md",
     "self-state/self-state基础工作.md",
     "恢复循环实验场景设计.md",
     "海月.png",
     "markdown查看器.md",
     "LaTeX查看器.md",
     "self-state/self-state基础工作 1.md",
-    "self-state/可证伪命题.md",
     "self-state/候选技术实现路径.md",
     "self-state/第一阶段实验结果记录.md",
     "self-state/实验结果记录.md",
